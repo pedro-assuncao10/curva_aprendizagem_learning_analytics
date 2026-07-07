@@ -1,0 +1,24 @@
+HIERÁRQUICO — Cosseno (4 bins)
+
+Silhueta por linkage e k:
+linkage  average  complete  single  ward_corda
+k                                             
+2         0.4195       NaN  0.5808      0.4330
+3         0.2925       NaN  0.5160      0.2906
+4         0.2513    0.1936  0.4376      0.2691
+5         0.2373    0.1618  0.4048      0.2313
+6         0.2188    0.1455  0.3847      0.2303
+7         0.1800    0.2059  0.3365      0.2384
+8         0.2496    0.1983  0.3327      0.2454
+
+k=3 por linkage (tamanhos):
+  Ward (corda): grupos obtidos=3 menor=1,156 maior=3,337
+  Completo    : grupos obtidos=1 menor=7,118 maior=7,118
+  Médio       : grupos obtidos=3 menor=137 maior=5,846
+  Simples     : grupos obtidos=3 menor=1 maior=7,114
+
+Melhor linkage utilizável no k=3: Ward (corda) (sil=0.2906, ARI vs baseline=0.4660)
+Curvas médias:
+  Tardio: [0.190, 0.068, 0.091, 0.651]  n=1,156
+  Adiantado: [0.344, 0.259, 0.160, 0.237]  n=2,625
+  Equilibrado: [0.177, 0.234, 0.255, 0.335]  n=3,337

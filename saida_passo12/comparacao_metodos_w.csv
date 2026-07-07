@@ -1,0 +1,5 @@
+metodo,corr_ativo_fim,corr_aprovado
+W=7 fixo (antecedencia escalar),0.112,0.181
+W=14 fixo (antecedencia escalar),0.08,0.16
+W=28 fixo (antecedencia escalar),-0.023,0.078
+"W adaptativo max(28,gap) (antecedencia)",-0.062,0.032

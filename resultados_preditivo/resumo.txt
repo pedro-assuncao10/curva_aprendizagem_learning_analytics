@@ -1,0 +1,28 @@
+MODELO PREDITIVO — TESTE DA H3 (FFF 2014J)
+n=1451 alunos | aprovados=1116 | reprovados=335 | Withdrawn excluído
+CV: 5-fold x 4 repetições, folds pareados entre conjuntos
+
+== CURSO COMPLETO ==
+AUC médio por conjunto x modelo:
+  volume                   Logística=0.9038  Random Forest=0.9063  MLP=0.9028
+  forma                    Logística=0.8727  Random Forest=0.8979  MLP=0.8702
+  volume+forma             Logística=0.8932  Random Forest=0.9057  MLP=0.8790
+  volume+forma+nota TMA1   Logística=0.9119  Random Forest=0.9169  MLP=0.8689
+Teste H3 (volume+forma vs volume):
+       modelo  auc_volume  auc_ambos  delta_auc  p_t_pareado  p_wilcoxon  folds_melhora  n_folds
+    Logística      0.9038     0.8932    -0.0106       0.0000      0.0000              2       20
+Random Forest      0.9063     0.9057    -0.0007       0.6986      0.5732              8       20
+          MLP      0.9028     0.8790    -0.0239       0.0000      0.0000              2       20
+
+== ALERTA PRECOCE (ciclos 1-2) ==
+AUC médio por conjunto x modelo:
+  volume                   Logística=0.7719  Random Forest=0.7696  MLP=0.7689
+  forma                    Logística=0.6719  Random Forest=0.7400  MLP=0.5930
+  volume+forma             Logística=0.7655  Random Forest=0.7644  MLP=0.6406
+  volume+forma+nota TMA1   Logística=0.7849  Random Forest=0.7782  MLP=0.7492
+Teste H3 (volume+forma vs volume):
+       modelo  auc_volume  auc_ambos  delta_auc  p_t_pareado  p_wilcoxon  folds_melhora  n_folds
+    Logística      0.7719     0.7655    -0.0063       0.0103      0.0136              6       20
+Random Forest      0.7696     0.7644    -0.0052       0.3532      0.4524              7       20
+          MLP      0.7689     0.6406    -0.1283       0.0000      0.0000              0       20
+

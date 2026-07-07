@@ -1,0 +1,31 @@
+teste,pergunta,numeros,veredito,sucesso
+"T1 Permutação
+(silhueta)","Os 3 grupos existiriam em dados
+sem estrutura temporal?","silhueta real = 0.246
+nulos: μ=0.220, máx=0.242
+p = 0.0050 (200 permutações)","SIM, estrutura genuína: nenhuma permutação
+alcançou a silhueta real",True
+"T2 ANOVA/Kruskal
+(volume)","A forma é só volume
+disfarçado?","ANOVA F=185.4 (p=6.79e-101)
+Kruskal H=406.7 (p=7.86e-88)
+η² = 0.289 (28.9% da variância)","PARCIAL: volume difere entre perfis (η²=0.29);
+controlar volume nos modelos preditivos",False
+"T3 Qui-quadrado
+(perfil × aprovação)","Perfil e aprovação
+andam juntos?","χ² = 38.1, gl=3, p = 2.69e-08
+V de Cramér = 0.171
+taxas: Adiantado 89%, Equilibrado 89%, Tardio 74%, Misto 78%","SIM: associação significativa —
+perfil e resultado final não são independentes",True
+"T4 ANOVA + Tukey
+(notas)","Perfil muda a nota?
+Entre quais perfis?","ANOVA F=28.0 (p=1.52e-17), η²=0.061
+Kruskal H=86.8 (p=1.08e-18)
+Tukey: 4/6 pares significativos","SIM: notas diferem por perfil.
+Pares: Adiantado − Tardio; Adiantado − Misto; Equilibrado − Tardio; Equilibrado − Misto",True
+"T5 Kaplan-Meier
++ log-rank (evasão)","O comportamento inicial prevê
+QUANDO o aluno desiste?","log-rank χ² = 9.1, p = 0.0284
+n = 1,502 vivos no dia 52
+evasões obs/esperadas: Adiantado: 11obs/8esp, Equilibrado: 46obs/63esp, Tardio: 6obs/7esp, Misto: 87obs/72esp","SIM: curvas de sobrevivência diferem —
+o perfil dos 2 primeiros ciclos antecipa a evasão",True

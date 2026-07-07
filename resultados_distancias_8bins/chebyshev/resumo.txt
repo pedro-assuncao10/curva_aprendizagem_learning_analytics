@@ -1,0 +1,20 @@
+K-MEDOIDS Chebyshev (8 bins)
+
+Melhor k pela silhueta: 2 (sil=0.4340)
+ k       custo  silhueta_media
+ 2 1089.208430        0.434018
+ 3 1032.777978        0.161286
+ 4  994.342288        0.124717
+ 5  965.560378        0.137409
+ 6  949.815787        0.085734
+ 7  927.170800        0.072624
+ 8  904.827396        0.057239
+
+k=3: grupos=[np.int64(4603), np.int64(1960), np.int64(555)], sil=0.1613
+Curvas médias (k=3):
+  Adiantado: [0.134, 0.136, 0.136, 0.113, 0.123, 0.102, 0.104, 0.150]
+  Tardio: [0.057, 0.048, 0.041, 0.031, 0.046, 0.036, 0.075, 0.667]
+  Equilibrado: [0.102, 0.107, 0.095, 0.083, 0.069, 0.081, 0.160, 0.304]
+
+Divisivo: melhor sub-k=2, sil global=0.1172, ARI vs k=3=0.2095
+ARI k=3 vs k-means euclidiano (baseline): 0.2881

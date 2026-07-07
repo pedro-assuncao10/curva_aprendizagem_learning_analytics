@@ -1,0 +1,8 @@
+K-MEDOIDS — VARIAÇÃO DA MEDIDA DE DISTÂNCIA (8 bins)
+Baseline: k-means euclidiano k=3 do pipeline principal.
+
+   metrica  melhor_k  sil_melhor_k  sil_k3  melhor_sub_k  sil_divisivo  ari_divisivo_vs_k3  ari_k3_vs_baseline                                        grupos_k3
+Euclidiana         2        0.3310  0.1518             2        0.1276              0.2916              0.2866 [np.int64(4215), np.int64(1590), np.int64(1313)]
+ Manhattan         2        0.3216  0.1305             2        0.1237              0.4602              0.5538 [np.int64(3105), np.int64(2937), np.int64(1076)]
+   Cosseno         2        0.3559  0.2432             2        0.2285              0.6620              0.4183 [np.int64(3128), np.int64(2307), np.int64(1683)]
+ Chebyshev         2        0.4340  0.1613             2        0.1172              0.2095              0.2881  [np.int64(4603), np.int64(1960), np.int64(555)]

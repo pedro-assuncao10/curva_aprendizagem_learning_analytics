@@ -1,0 +1,73 @@
+======================================================================
+PASSO 12 — CURVA EM 2 ESTÁGIOS (desistente/antecipado/equilibrado/fim-pesado)
+======================================================================
+
+Alunos válidos: 21,318
+Cursos com calendário de provas: 22
+Cliques capturados: 36,401,708 de 36,401,708 disponíveis (100.00%)
+Alunos com curva calculada: 21,318
+
+Estágio 1 (regra ativo_no_fim): desistentes=3,135  persistentes=18,183
+Aprovação dos desistentes: 1.2%
+Aprovação dos persistentes: 84.3%
+
+Escolha de K (estágio 2, só persistentes):
+  K=2:  inércia=82,378   silhueta=0.263
+  K=3:  inércia=70,810   silhueta=0.207
+  K=4:  inércia=62,896   silhueta=0.190
+  K=5:  inércia=56,800   silhueta=0.177
+  K=6:  inércia=51,906   silhueta=0.191
+  K=7:  inércia=48,228   silhueta=0.201
+  K=8:  inércia=44,651   silhueta=0.201
+
+Melhor K (silhueta): 2  | usando K = 3
+
+--- VALIDAÇÃO: cruzamento perfil (passo12) x perfil (passo3, referência) ---
+perfil_passo3  antecipou_sustentou  desistente  equilibrado  fim-pesado
+perfil                                                                 
+antecipado                    6734           0         1581         926
+desistente                       0        3135            0           0
+equilibrado                   4353           0         1801         520
+fim-pesado                      32           0          315        1921
+
+--- mesmo cruzamento em % por linha ---
+perfil_passo3  antecipou_sustentou  desistente  equilibrado  fim-pesado
+perfil                                                                 
+antecipado                    72.9         0.0         17.1        10.0
+desistente                     0.0       100.0          0.0         0.0
+equilibrado                   65.2         0.0         27.0         7.8
+fim-pesado                     1.4         0.0         13.9        84.7
+
+ARI do estágio 2 (K-means na curva) vs perfil de referência do passo3: 0.175
+
+--- PERFIL DE CADA GRUPO (final, estágio 1 + estágio 2) ---
+     perfil    n  %base  aprovacao_%
+ desistente 3135   14.7          1.2
+ antecipado 9241   43.3         80.7
+equilibrado 6674   31.3         87.9
+ fim-pesado 2268   10.6         88.5
+
+Resultado final por perfil (%):
+final_result  Distinction  Pass  Fail
+perfil                               
+desistente            0.0   1.2  98.8
+antecipado           14.9  65.8  19.3
+equilibrado          19.0  68.9  12.1
+fim-pesado           16.9  71.6  11.5
+
+--- Comparação dos métodos de janela testados (ver passo12.md) ---
+                                 metodo  corr_ativo_fim  corr_aprovado
+        W=7 fixo (antecedencia escalar)           0.112          0.181
+       W=14 fixo (antecedencia escalar)           0.080          0.160
+       W=28 fixo (antecedencia escalar)          -0.023          0.078
+W adaptativo max(28,gap) (antecedencia)          -0.062          0.032
+
+======================================================================
+Gravado em C:\Users\Pedro\OneDrive\Documentos\analitica_apren_trab_final\saida_passo12:
+  - 01_cotovelo_silhueta.png       02_perfis_curvas.png
+  - 03_resultado_por_cluster.png   04_silhueta_facas_e_mapa.png
+  - curvas_e_perfis.csv            perfil_dos_grupos.csv
+  - validacao_crosstab.csv         comparacao_metodos_w.csv
+  - passo12.md                     saida_terminal.txt
+
+Passo 12 OK. Estágio1 (regra) + Estágio2 (K=3 na curva). ARI vs passo3=0.175

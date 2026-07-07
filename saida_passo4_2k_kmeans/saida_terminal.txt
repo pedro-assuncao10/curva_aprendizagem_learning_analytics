@@ -1,0 +1,46 @@
+======================================================================
+PASSO 3 — K-MEANS (Descobrir Perfis de Engajamento)
+======================================================================
+
+Alunos válidos para clusterização: 21,066
+Features na clusterização: 33  (30 colunas de forma + 3 interpretáveis)
+
+Testando K = [2, 3, 4, 5, 6, 7, 8]
+  K=2:  inércia=622,922   silhueta=0.202
+  K=3:  inércia=597,093   silhueta=0.117
+  K=4:  inércia=581,796   silhueta=0.113
+  K=5:  inércia=568,742   silhueta=0.106
+  K=6:  inércia=556,283   silhueta=0.102
+  K=7:  inércia=546,929   silhueta=0.096
+  K=8:  inércia=535,038   silhueta=0.055
+
+Melhor K pela silhueta: 2    | Usando K = 2
+
+--- PERFIL DE CADA CLUSTER ---
+ cluster     n  %base  semanas_mortas  centro_massa  aprovacao_%
+       0 16989   80.6             6.0          0.45         86.6
+       1  4077   19.4            18.9          0.16         16.1
+
+Composição do resultado final por cluster (%):
+final_result  Distinction  Fail  Pass
+cluster                              
+0                    17.4  13.4  69.1
+1                     1.5  83.9  14.6
+
+Distribuição de faixa de volume por cluster (%):
+faixa_volume  alto  baixo  medio
+cluster                         
+0             40.2   23.6   36.2
+1              4.7   74.1   21.2
+
+======================================================================
+Gravado em C:\Users\Pedro\OneDrive\Documentos\analitica_apren_trab_final\saida_passo4_2k_kmeans:
+  - 01_cotovelo_silhueta.png      (como escolhemos K)
+  - 02_perfis_curva_media.png     (OS PERFIS: curva média de cada cluster)
+  - 03_resultado_por_cluster.png  (cada perfil passa mais ou menos?)
+  - 04_silhueta_facas_e_mapa.png  (diagnóstico PCA e Facas)
+  - alunos_clusters.csv           (A tabela-chave: Aluno -> Cluster)
+  - perfil_dos_clusters.csv       (O resumo executivo)
+  - saida_terminal.txt
+
+Passo 3 OK. K=2. Os clusters foram encontrados com sucesso e estão limpos!

@@ -1,0 +1,49 @@
+======================================================================
+PASSO 13 — HIERÁRQUICO SOBRE A CURVA (validação do passo 12)
+======================================================================
+
+Persistentes (fora do K-means/hierárquico do desistente): 18,183
+Amostra para o hierárquico: 6,000 alunos
+
+>>> COMPARAÇÃO DAS COMBINAÇÕES (hierárquico):
+ linkage   metrica  silhueta  ARI_vs_kmeans  ARI_vs_passo3          tamanhos aprovacao_por_grupo
+    ward euclidean     0.174          0.500          0.146 [3151, 415, 2434]  [78.2, 88.4, 90.2]
+ average euclidean     0.574          0.001         -0.000      [3, 3, 5994]   [0.0, 66.7, 83.8]
+complete euclidean     0.283          0.054          0.033  [170, 173, 5657]  [65.3, 92.5, 84.1]
+ average cityblock     0.543          0.001          0.000      [3, 3, 5994]   [0.0, 33.3, 83.8]
+complete cityblock     0.225          0.279          0.171 [183, 4256, 1561]  [69.4, 81.7, 91.0]
+ average    cosine     0.282          0.510          0.165 [2970, 590, 2440]  [79.3, 84.2, 89.1]
+complete    cosine     0.273          0.481          0.179 [2350, 809, 2841]  [87.2, 86.8, 80.1]
+
+Leitura:
+  silhueta      : separação interna dos grupos (maior = melhor, mas cuidado com clusters degenerados)
+  ARI_vs_kmeans : concordância com o K-means do passo 12 (1=idêntico, 0=aleatório)
+  ARI_vs_passo3 : concordância com o rótulo INDEPENDENTE do passo 3 (o teste que importa de verdade)
+
+Melhor combinação por ARI_vs_passo3 (critério real, não silhueta): complete + cosine
+  silhueta=0.273  ARI_vs_kmeans=0.481  ARI_vs_passo3=0.179
+
+(Para comparação: melhor por silhueta pura seria average+euclidean, silhueta=0.574, mas ARI_vs_passo3=-0.0 -- olhar só a silhueta pode enganar, como já vimos no passo 8.)
+
+Cruzamento hierárquico (complete+cosine) x K-means (linhas=hier, colunas=kmeans):
+col_0  antecipado  equilibrado  fim-pesado
+row_0                                     
+1             309         1787         254
+2             218          128         463
+3            2501          325          15
+
+Cruzamento hierárquico (complete+cosine) x passo3 (linhas=hier, colunas=passo3):
+col_0  antecipou_sustentou  equilibrado  fim-pesado
+row_0                                              
+1                     1522          552         276
+2                       19          185         605
+3                     2171          477         193
+
+======================================================================
+Gravado em C:\Users\Pedro\OneDrive\Documentos\analitica_apren_trab_final\saida_passo13:
+  - 01_dendrogramas.png            (um dendrograma por combinação)
+  - 02_comparacao_metricas.png     (silhueta, ARI vs kmeans, ARI vs passo3)
+  - 03_perfil_melhor_hierarquico.png
+  - comparacao_hierarquico.csv     crosstab_melhor_vs_passo3.csv   saida_terminal.txt
+
+Passo 13 OK. Amostra=6000, K=3.

@@ -1,0 +1,10 @@
+# dados brutos do OULAD (433 MB — baixar de https://analyse.kmi.open.ac.uk/open_dataset)
+dataset/
+
+# cache intermediário regenerável (kmeans_ciclos.py recria na primeira execução)
+cache_vle_fff2014j.csv
+
+# ambiente virtual e artefatos de Python
+venv/
+__pycache__/
+*.pyc

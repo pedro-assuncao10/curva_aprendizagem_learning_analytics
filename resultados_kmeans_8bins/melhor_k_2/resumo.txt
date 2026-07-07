@@ -1,0 +1,20 @@
+k = 2 | bins = 8 | silhueta média = 0.3547 | inércia = 458.8
+
+Centróides (proporção do esforço por bin do ciclo):
+  Cluster 0 (com=0.51): [0.127, 0.133, 0.130, 0.110, 0.114, 0.100, 0.120, 0.167]  n=5797
+  Cluster 1 (com=0.70): [0.085, 0.071, 0.061, 0.051, 0.052, 0.051, 0.107, 0.522]  n=1321
+
+Perfil dos alunos (consistência entre ciclos):
+perfil_aluno
+Cluster 0 (com=0.51)    1162
+Insuficiente             431
+Cluster 1 (com=0.70)     171
+Misto                     42
+
+Perfil x resultado final:
+final_result          Distinction  Fail  Pass  Withdrawn
+perfil_aluno                                            
+Cluster 0 (com=0.51)          249   131   724         58
+Cluster 1 (com=0.70)            9    48   105          9
+Insuficiente                    0   142     2        287
+Misto                           0    14    27          1

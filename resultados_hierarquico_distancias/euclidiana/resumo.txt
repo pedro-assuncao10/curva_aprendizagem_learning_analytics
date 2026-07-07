@@ -1,0 +1,24 @@
+HIERÁRQUICO — Euclidiana (4 bins)
+
+Silhueta por linkage e k:
+linkage  average  complete  single    ward
+k                                         
+2         0.5282       NaN  0.5021  0.4091
+3         0.4388       NaN  0.5034  0.2615
+4         0.3834    0.1273  0.4895  0.1785
+5         0.3421    0.1158  0.4247  0.1414
+6         0.2797    0.1487  0.3948  0.1438
+7         0.2351    0.1473  0.3915  0.1538
+8         0.1995    0.1366  0.3912  0.1609
+
+k=3 por linkage (tamanhos):
+  Ward        : grupos obtidos=3 menor=1,226 maior=4,638
+  Completo    : grupos obtidos=1 menor=7,118 maior=7,118
+  Médio       : grupos obtidos=3 menor=13 maior=6,591
+  Simples     : grupos obtidos=3 menor=3 maior=7,110
+
+Melhor linkage utilizável no k=3: Ward (sil=0.2615, ARI vs baseline=0.4273)
+Curvas médias:
+  Tardio: [0.114, 0.104, 0.120, 0.661]  n=1,254
+  Adiantado: [0.441, 0.198, 0.147, 0.214]  n=1,226
+  Equilibrado: [0.222, 0.251, 0.225, 0.302]  n=4,638

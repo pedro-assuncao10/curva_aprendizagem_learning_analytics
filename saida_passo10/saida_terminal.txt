@@ -1,0 +1,143 @@
+======================================================================
+PASSO 10 — H3 parcial (70%) vs full
+======================================================================
+
+Alunos: 21,318  | aprovados: 72.1%
+
+Arquitetura fixada: MLP media(32,16)  (+ GBoost como comparação)
+
+### V vs F vs V+F (a H3) ###
+  >> treinando media(32,16)         [PARCIAL (70%)_V (volume)] ...
+       fold 1/5: AUC=0.757 F1=0.660
+       fold 2/5: AUC=0.758 F1=0.658
+       fold 3/5: AUC=0.765 F1=0.661
+       fold 4/5: AUC=0.756 F1=0.674
+       fold 5/5: AUC=0.756 F1=0.623
+     [salvo] modelo_PARCIAL70%_Vvolume_media3216.joblib
+     => média AUC=0.759 F1=0.655  (8s)
+
+  >> treinando GBoost               [PARCIAL (70%)_V (volume)] ...
+       fold 1/5: AUC=0.748 F1=0.632
+       fold 2/5: AUC=0.753 F1=0.637
+       fold 3/5: AUC=0.759 F1=0.652
+       fold 4/5: AUC=0.752 F1=0.651
+       fold 5/5: AUC=0.754 F1=0.648
+     [salvo] modelo_PARCIAL70%_Vvolume_GBoost.joblib
+     => média AUC=0.753 F1=0.644  (4s)
+
+  >> treinando media(32,16)         [PARCIAL (70%)_F (forma)] ...
+       fold 1/5: AUC=0.842 F1=0.790
+       fold 2/5: AUC=0.855 F1=0.796
+       fold 3/5: AUC=0.860 F1=0.795
+       fold 4/5: AUC=0.852 F1=0.771
+       fold 5/5: AUC=0.855 F1=0.783
+     [salvo] modelo_PARCIAL70%_Fforma_media3216.joblib
+     => média AUC=0.853 F1=0.787  (11s)
+
+  >> treinando GBoost               [PARCIAL (70%)_F (forma)] ...
+       fold 1/5: AUC=0.842 F1=0.792
+       fold 2/5: AUC=0.855 F1=0.795
+       fold 3/5: AUC=0.860 F1=0.794
+       fold 4/5: AUC=0.849 F1=0.771
+       fold 5/5: AUC=0.852 F1=0.784
+     [salvo] modelo_PARCIAL70%_Fforma_GBoost.joblib
+     => média AUC=0.852 F1=0.787  (2s)
+
+  >> treinando media(32,16)         [PARCIAL (70%)_V+F] ...
+       fold 1/5: AUC=0.847 F1=0.792
+       fold 2/5: AUC=0.859 F1=0.794
+       fold 3/5: AUC=0.863 F1=0.795
+       fold 4/5: AUC=0.855 F1=0.768
+       fold 5/5: AUC=0.851 F1=0.774
+     [salvo] modelo_PARCIAL70%_VF_media3216.joblib
+     => média AUC=0.855 F1=0.785  (10s)
+
+  >> treinando GBoost               [PARCIAL (70%)_V+F] ...
+       fold 1/5: AUC=0.845 F1=0.789
+       fold 2/5: AUC=0.858 F1=0.797
+       fold 3/5: AUC=0.864 F1=0.797
+       fold 4/5: AUC=0.855 F1=0.774
+       fold 5/5: AUC=0.859 F1=0.786
+     [salvo] modelo_PARCIAL70%_VF_GBoost.joblib
+     => média AUC=0.856 F1=0.789  (2s)
+
+  >> treinando media(32,16)         [FULL_V (volume)] ...
+       fold 1/5: AUC=0.794 F1=0.705
+       fold 2/5: AUC=0.795 F1=0.704
+       fold 3/5: AUC=0.798 F1=0.669
+       fold 4/5: AUC=0.789 F1=0.698
+       fold 5/5: AUC=0.789 F1=0.708
+     [salvo] modelo_FULL_Vvolume_media3216.joblib
+     => média AUC=0.793 F1=0.697  (6s)
+
+  >> treinando GBoost               [FULL_V (volume)] ...
+       fold 1/5: AUC=0.789 F1=0.691
+       fold 2/5: AUC=0.792 F1=0.692
+       fold 3/5: AUC=0.792 F1=0.707
+       fold 4/5: AUC=0.785 F1=0.699
+       fold 5/5: AUC=0.783 F1=0.688
+     [salvo] modelo_FULL_Vvolume_GBoost.joblib
+     => média AUC=0.788 F1=0.695  (1s)
+
+  >> treinando media(32,16)         [FULL_F (forma)] ...
+       fold 1/5: AUC=0.887 F1=0.847
+       fold 2/5: AUC=0.893 F1=0.848
+       fold 3/5: AUC=0.892 F1=0.857
+       fold 4/5: AUC=0.884 F1=0.832
+       fold 5/5: AUC=0.889 F1=0.840
+     [salvo] modelo_FULL_Fforma_media3216.joblib
+     => média AUC=0.889 F1=0.845  (13s)
+
+  >> treinando GBoost               [FULL_F (forma)] ...
+       fold 1/5: AUC=0.882 F1=0.844
+       fold 2/5: AUC=0.893 F1=0.846
+       fold 3/5: AUC=0.894 F1=0.855
+       fold 4/5: AUC=0.884 F1=0.834
+       fold 5/5: AUC=0.887 F1=0.838
+     [salvo] modelo_FULL_Fforma_GBoost.joblib
+     => média AUC=0.888 F1=0.843  (2s)
+
+  >> treinando media(32,16)         [FULL_V+F] ...
+       fold 1/5: AUC=0.895 F1=0.846
+       fold 2/5: AUC=0.898 F1=0.848
+       fold 3/5: AUC=0.896 F1=0.856
+       fold 4/5: AUC=0.889 F1=0.834
+       fold 5/5: AUC=0.892 F1=0.840
+     [salvo] modelo_FULL_VF_media3216.joblib
+     => média AUC=0.894 F1=0.845  (11s)
+
+  >> treinando GBoost               [FULL_V+F] ...
+       fold 1/5: AUC=0.890 F1=0.846
+       fold 2/5: AUC=0.896 F1=0.845
+       fold 3/5: AUC=0.898 F1=0.855
+       fold 4/5: AUC=0.886 F1=0.834
+       fold 5/5: AUC=0.888 F1=0.837
+     [salvo] modelo_FULL_VF_GBoost.joblib
+     => média AUC=0.892 F1=0.843  (2s)
+
+  [PARCIAL (70%)] erro classe REPROVOU = 45.2%  |  erro classe APROVOU = 3.5%
+  [FULL] erro classe REPROVOU = 34.6%  |  erro classe APROVOU = 2.3%
+
+>>> RESUMO H3:
+       janela   conjunto       modelo   AUC    F1
+PARCIAL (70%) V (volume) media(32,16) 0.759 0.655
+PARCIAL (70%) V (volume)       GBoost 0.753 0.644
+PARCIAL (70%)  F (forma) media(32,16) 0.853 0.787
+PARCIAL (70%)  F (forma)       GBoost 0.852 0.787
+PARCIAL (70%)        V+F media(32,16) 0.855 0.785
+PARCIAL (70%)        V+F       GBoost 0.856 0.789
+         FULL V (volume) media(32,16) 0.793 0.697
+         FULL V (volume)       GBoost 0.788 0.695
+         FULL  F (forma) media(32,16) 0.889 0.845
+         FULL  F (forma)       GBoost 0.888 0.843
+         FULL        V+F media(32,16) 0.894 0.845
+         FULL        V+F       GBoost 0.892 0.843
+
+======================================================================
+Gravado em C:\Users\Pedro\OneDrive\Documentos\analitica_apren_trab_final\saida_passo10:
+  - 02_h3_volume_vs_forma.png  (a H3: V vs F vs V+F)
+  - 03_matriz_confusao.png     (onde o modelo erra, com % por classe)
+  - h3_resultados.csv  saida_terminal.txt
+  - modelos/  (12 modelos .joblib salvos)
+
+Leitura: se V+F > V, a forma adiciona. Se F sozinho já vai bem, a forma tem sinal próprio.

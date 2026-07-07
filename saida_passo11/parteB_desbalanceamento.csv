@@ -1,0 +1,9 @@
+janela,modelo,peso,recall_reprov,prec_reprov,F1,AUC
+FULL,"media(32,16)",sem_peso,0.575,0.808,0.784,0.861
+FULL,"media(32,16)",balanced,0.722,0.622,0.762,0.856
+FULL,GBoost,sem_peso,0.625,0.87,0.821,0.88
+FULL,GBoost,balanced,0.723,0.724,0.808,0.881
+PARCIAL(70%),"media(32,16)",sem_peso,0.531,0.789,0.762,0.838
+PARCIAL(70%),"media(32,16)",balanced,0.686,0.613,0.749,0.835
+PARCIAL(70%),GBoost,sem_peso,0.547,0.803,0.772,0.841
+PARCIAL(70%),GBoost,balanced,0.676,0.635,0.757,0.84

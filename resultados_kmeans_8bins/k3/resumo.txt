@@ -1,0 +1,23 @@
+k = 3 | bins = 8 | silhueta média = 0.1386 | inércia = 416.5
+
+Centróides (proporção do esforço por bin do ciclo):
+  Tardio: [0.085, 0.073, 0.061, 0.050, 0.048, 0.045, 0.086, 0.552]  n=1110
+  Adiantado: [0.155, 0.159, 0.151, 0.116, 0.107, 0.080, 0.079, 0.154]  n=3583
+  Equilibrado: [0.081, 0.088, 0.093, 0.096, 0.121, 0.129, 0.189, 0.204]  n=2425
+
+Perfil dos alunos (consistência entre ciclos):
+perfil_aluno
+Adiantado       697
+Insuficiente    431
+Equilibrado     285
+Misto           263
+Tardio          130
+
+Perfil x resultado final:
+final_result  Distinction  Fail  Pass  Withdrawn
+perfil_aluno                                    
+Adiantado             177    64   432         24
+Equilibrado            54    31   178         22
+Insuficiente            0   142     2        287
+Misto                  20    54   174         15
+Tardio                  7    44    72          7

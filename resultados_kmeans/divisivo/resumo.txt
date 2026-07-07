@@ -1,0 +1,25 @@
+SOLUÇÃO DIVISIVA (k=2 global -> k-means no cluster restante)
+
+Etapa 1 (k=2): tardio n=1545, resto n=5573
+Etapa 2: varredura dentro do resto -> melhor sub-k = 2
+ k    inercia  silhueta_media
+ 2 217.688241        0.250396
+ 3 179.416216        0.212208
+ 4 155.967171        0.204420
+ 5 137.385343        0.212882
+ 6 123.180534        0.220433
+
+Centróides da solução combinada:
+  Adiantado: [0.394, 0.221, 0.132, 0.252]  n=1959
+  Equilibrado: [0.202, 0.258, 0.257, 0.283]  n=3614
+  Tardio: [0.135, 0.112, 0.122, 0.631]  n=1545
+
+Silhueta global: divisiva = 0.2486 | k=3 direto = 0.2458
+ARI (divisiva vs k=3 direto) = 0.7425 | concordância de rótulos = 91.1%
+
+Cruzamento k=3 direto x divisiva (nº de ciclos):
+divisivo     Adiantado  Equilibrado  Tardio
+k3 direto                                  
+Adiantado         1951          361      48
+Equilibrado          8         3253     214
+Tardio               0            0    1283

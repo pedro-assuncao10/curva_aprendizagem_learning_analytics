@@ -1,0 +1,20 @@
+K-MEDOIDS Manhattan (8 bins)
+
+Melhor k pela silhueta: 2 (sil=0.3216)
+ k       custo  silhueta_media
+ 2 3808.514687        0.321597
+ 3 3609.440563        0.130524
+ 4 3504.897078        0.132253
+ 5 3392.882826        0.162570
+ 6 3349.724643        0.165669
+ 7 3264.048560        0.070088
+ 8 3226.885327        0.121945
+
+k=3: grupos=[np.int64(3105), np.int64(2937), np.int64(1076)], sil=0.1305
+Curvas médias (k=3):
+  Equilibrado: [0.083, 0.102, 0.098, 0.105, 0.115, 0.128, 0.161, 0.208]
+  Tardio: [0.099, 0.083, 0.049, 0.040, 0.041, 0.038, 0.103, 0.546]
+  Adiantado: [0.160, 0.153, 0.159, 0.112, 0.112, 0.074, 0.081, 0.147]
+
+Divisivo: melhor sub-k=2, sil global=0.1237, ARI vs k=3=0.4602
+ARI k=3 vs k-means euclidiano (baseline): 0.5538

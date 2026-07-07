@@ -1,0 +1,39 @@
+HIERÁRQUICO sobre as curvas de ciclo (4 bins)
+
+Correlação cofenética por linkage:
+  Ward     : 0.5982
+  Completo : 0.3283
+  Médio    : 0.7669
+  Simples  : 0.6060
+
+Silhueta média por linkage e k:
+linkage  average  complete  single    ward
+k                                         
+2         0.5282       NaN  0.5021  0.4091
+3         0.4388       NaN  0.5034  0.2615
+4         0.3834    0.1273  0.4895  0.1785
+5         0.3421    0.1158  0.4247  0.1414
+6         0.2797    0.1487  0.3948  0.1438
+7         0.2351    0.1473  0.3915  0.1538
+8         0.1995    0.1366  0.3912  0.1609
+
+Tamanho do menor grupo (k=3) por linkage:
+  Ward     : menor=1,226 maior=4,638
+  Completo : menor=7,118 maior=7,118
+  Médio    : menor=13 maior=6,591
+  Simples  : menor=3 maior=7,110
+
+Ward k=3: silhueta = 0.2615 (k-means k=3: 0.2458)
+Curvas médias (Ward):
+  Tardio: [0.114, 0.104, 0.120, 0.661]  n=1254
+  Adiantado: [0.441, 0.198, 0.147, 0.214]  n=1226
+  Equilibrado: [0.222, 0.251, 0.225, 0.302]  n=4638
+
+ARI (k-means x Ward) = 0.4273 | concordância de rótulos = 77.7%
+
+Cruzamento k-means x Ward (nº de ciclos):
+Ward k=3     Adiantado  Equilibrado  Tardio
+k-means k=3                                
+Adiantado         1152         1188      20
+Equilibrado         63         3277     135
+Tardio              11          173    1099

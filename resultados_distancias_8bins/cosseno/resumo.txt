@@ -1,0 +1,20 @@
+K-MEDOIDS Cosseno (8 bins)
+
+Melhor k pela silhueta: 2 (sil=0.3559)
+ k      custo  silhueta_media
+ 2 988.902530        0.355865
+ 3 879.533424        0.243175
+ 4 840.906258        0.229084
+ 5 805.095710        0.189323
+ 6 780.098549        0.221097
+ 7 746.227702        0.191125
+ 8 723.978740        0.184833
+
+k=3: grupos=[np.int64(3128), np.int64(2307), np.int64(1683)], sil=0.2432
+Curvas médias (k=3):
+  Equilibrado: [0.094, 0.097, 0.110, 0.109, 0.137, 0.130, 0.158, 0.165]
+  Tardio: [0.102, 0.083, 0.072, 0.052, 0.053, 0.054, 0.109, 0.474]
+  Adiantado: [0.165, 0.182, 0.160, 0.119, 0.092, 0.066, 0.068, 0.148]
+
+Divisivo: melhor sub-k=2, sil global=0.2285, ARI vs k=3=0.6620
+ARI k=3 vs k-means euclidiano (baseline): 0.4183

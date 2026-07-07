@@ -1,0 +1,19 @@
+HIERÁRQUICO — Chebyshev (8 bins)
+
+Silhueta por linkage e k:
+linkage  average  complete  single
+k                                 
+2         0.6843       NaN  0.6775
+3         0.6139       NaN  0.6695
+4         0.5880       NaN  0.6545
+5         0.5416       NaN  0.6545
+6         0.5109    0.4122  0.5834
+7         0.4839    0.4113  0.5572
+8         0.4116    0.4065  0.4140
+
+k=3 por linkage (tamanhos):
+  Completo    : grupos obtidos=1 menor=7,118 maior=7,118
+  Médio       : grupos obtidos=3 menor=4 maior=7,105
+  Simples     : grupos obtidos=3 menor=1 maior=7,116
+
+Nenhum linkage produziu 3 grupos utilizáveis (menor >= 355).

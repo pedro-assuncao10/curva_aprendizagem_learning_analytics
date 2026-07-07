@@ -1,0 +1,19 @@
+HIERÁRQUICO — Manhattan (4 bins)
+
+Silhueta por linkage e k:
+linkage  average  complete  single
+k                                 
+2         0.5371       NaN  0.4793
+3         0.4251       NaN  0.4756
+4         0.3201    0.0632  0.4429
+5         0.3110    0.1327  0.4268
+6         0.2537    0.1283  0.3889
+7         0.2362    0.1465  0.3771
+8         0.2095    0.1347  0.3583
+
+k=3 por linkage (tamanhos):
+  Completo    : grupos obtidos=1 menor=7,118 maior=7,118
+  Médio       : grupos obtidos=3 menor=10 maior=6,538
+  Simples     : grupos obtidos=3 menor=4 maior=7,109
+
+Nenhum linkage produziu 3 grupos utilizáveis (menor >= 355).

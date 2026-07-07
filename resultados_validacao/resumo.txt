@@ -1,0 +1,45 @@
+VALIDAÇÃO ESTATÍSTICA DOS PERFIS (FFF 2014J, 4 bins)
+
+== T1 Permutação (silhueta) ==
+Pergunta: Os 3 grupos existiriam em dados sem estrutura temporal?
+Números:  silhueta real = 0.246 | nulos: μ=0.220, máx=0.242 | p = 0.0050 (200 permutações)
+Veredito: SIM, estrutura genuína: nenhuma permutação alcançou a silhueta real
+
+== T2 ANOVA/Kruskal (volume) ==
+Pergunta: A forma é só volume disfarçado?
+Números:  ANOVA F=185.4 (p=6.79e-101) | Kruskal H=406.7 (p=7.86e-88) | η² = 0.289 (28.9% da variância)
+Veredito: PARCIAL: volume difere entre perfis (η²=0.29); controlar volume nos modelos preditivos
+
+== T3 Qui-quadrado (perfil × aprovação) ==
+Pergunta: Perfil e aprovação andam juntos?
+Números:  χ² = 38.1, gl=3, p = 2.69e-08 | V de Cramér = 0.171 | taxas: Adiantado 89%, Equilibrado 89%, Tardio 74%, Misto 78%
+Veredito: SIM: associação significativa — perfil e resultado final não são independentes
+
+== T4 ANOVA + Tukey (notas) ==
+Pergunta: Perfil muda a nota? Entre quais perfis?
+Números:  ANOVA F=28.0 (p=1.52e-17), η²=0.061 | Kruskal H=86.8 (p=1.08e-18) | Tukey: 4/6 pares significativos
+Veredito: SIM: notas diferem por perfil. Pares: Adiantado − Tardio; Adiantado − Misto; Equilibrado − Tardio; Equilibrado − Misto
+
+== T5 Kaplan-Meier + log-rank (evasão) ==
+Pergunta: O comportamento inicial prevê QUANDO o aluno desiste?
+Números:  log-rank χ² = 9.1, p = 0.0284 | n = 1,502 vivos no dia 52 | evasões obs/esperadas: Adiantado: 11obs/8esp, Equilibrado: 46obs/63esp, Tardio: 6obs/7esp, Misto: 87obs/72esp
+Veredito: SIM: curvas de sobrevivência diferem — o perfil dos 2 primeiros ciclos antecipa a evasão
+
+Detalhe T3 — resíduos ajustados (|z|>2 = desvio real):
+             Reprovado  Aprovado
+perfil                          
+Adiantado        -2.00      2.00
+Equilibrado      -4.02      4.02
+Tardio            4.02     -4.02
+Misto             3.90     -3.90
+
+Detalhe T4 — Tukey HSD completo:
+                    par  diferenca  ic_low  ic_high  p_ajustado
+Adiantado − Equilibrado    -0.0297 -2.2348   2.1753      1.0000
+     Adiantado − Tardio     7.8469  4.7333  10.9606      0.0000
+      Adiantado − Misto     5.4491  2.8070   8.0911      0.0000
+   Equilibrado − Tardio     7.8767  5.0862  10.6671      0.0000
+    Equilibrado − Misto     5.4788  3.2267   7.7309      0.0000
+         Tardio − Misto    -2.3979 -5.5451   0.7493      0.2039
+
+Levene: volume p=0.134 | notas p=0.143

@@ -1,0 +1,71 @@
+======================================================================
+PASSO 20 — PADRÃO ANTES DE CADA PROVA (W=28 dias, suavizado em blocos de 4 dias)
+======================================================================
+
+Alunos válidos: 21,318
+Cursos com datas de prova: 22
+
+Alunos com padrão calculado (>=1 prova com clique na janela de 28 dias): 21,263
+Distribuição de nº de provas usadas por aluno:
+count    21263.0
+mean         5.7
+std          2.1
+min          1.0
+25%          5.0
+50%          6.0
+75%          7.0
+max         14.0
+
+Escolha de K:
+  K=2:  inércia=123,276   silhueta=0.183
+  K=3:  inércia=110,314   silhueta=0.163
+  K=4:  inércia=100,899   silhueta=0.166
+  K=5:  inércia=92,721   silhueta=0.174
+  K=6:  inércia=85,275   silhueta=0.181
+  K=7:  inércia=78,493   silhueta=0.181
+  K=8:  inércia=72,922   silhueta=0.187
+
+Melhor K (silhueta): 8  | usando K = 3
+
+--- Inclinação média de cada cluster (negativa = concentra perto da prova) ---
+  cluster 0 (crescente): inclinação=-0.0583  n=5,880
+  cluster 1 (constante): inclinação=-0.0343  n=6,574
+  cluster 2 (decrescente): inclinação=0.0012  n=8,809
+
+--- PERFIL DE CADA PADRÃO (Definição A: hábito por prova) ---
+     padrao    n  %base  aprovacao_%
+  crescente 5880   27.7         64.0
+  constante 6574   30.9         77.3
+decrescente 8809   41.4         73.9
+
+Resultado final por padrão (%):
+final_result  Distinction  Pass  Fail
+padrao                               
+crescente             7.7  56.4  36.0
+constante            15.8  61.5  22.7
+decrescente          17.4  56.5  26.1
+
+--- CRUZAMENTO: perfil do curso inteiro (passo14) x padrão por prova (este passo) ---
+padrao       constante  crescente  decrescente
+perfil                                        
+antecipado        2565       2341         3077
+desistente         730        919         1433
+equilibrado       2455       1694         3805
+fim-pesado         824        926          494
+
+--- % por linha (dentro de cada perfil do curso inteiro, como se dividem os padrões por prova) ---
+padrao       constante  crescente  decrescente
+perfil                                        
+antecipado        32.1       29.3         38.5
+desistente        23.7       29.8         46.5
+equilibrado       30.9       21.3         47.8
+fim-pesado        36.7       41.3         22.0
+
+======================================================================
+Gravado em C:\Users\Pedro\OneDrive\Documentos\analitica_apren_trab_final\saida_passo20:
+  - 01_cotovelo_silhueta.png       02_perfis_curvas.png
+  - 03_resultado_por_cluster.png   04_silhueta_facas_e_mapa.png
+  - padroes_por_prova.csv          perfil_dos_padroes.csv
+  - cruzamento_com_passo14.csv     passo20.md            saida_terminal.txt
+
+Passo 20 OK. W=28 dias, 7 blocos de 4 dias, K=3.

@@ -1,0 +1,3 @@
+cluster,perfil,n_ciclos,silhueta_media,mediana_clicks,centro_de_massa
+0,Cluster 0 (com=0.51),5797,0.3925873370588058,506.0,0.5079574388949673
+1,Cluster 1 (com=0.70),1321,0.18866485250202597,169.0,0.7008389538934501

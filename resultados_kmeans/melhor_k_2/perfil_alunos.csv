@@ -1,0 +1,1807 @@
+id_student,perfil_aluno,n_ciclos,consistencia,final_result
+31296,Cluster 1 (com=0.69),5,0.8,Fail
+35747,Insuficiente,1,1.0,Withdrawn
+35796,Insuficiente,1,1.0,Fail
+40857,Insuficiente,1,1.0,Withdrawn
+40878,Cluster 0 (com=0.50),5,1.0,Distinction
+42552,Cluster 0 (com=0.50),5,0.8,Pass
+43958,Cluster 0 (com=0.50),3,1.0,Fail
+45423,Cluster 0 (com=0.50),5,1.0,Fail
+47861,Cluster 0 (com=0.50),5,1.0,Pass
+56637,Cluster 0 (com=0.50),5,1.0,Distinction
+56667,Misto,4,0.5,Fail
+58884,Cluster 0 (com=0.50),5,1.0,Distinction
+63112,Cluster 1 (com=0.69),3,1.0,Withdrawn
+64427,Cluster 0 (com=0.50),5,1.0,Distinction
+66892,Insuficiente,1,1.0,Withdrawn
+69439,Insuficiente,2,0.5,Withdrawn
+71159,Cluster 0 (com=0.50),5,0.6,Pass
+74165,Cluster 0 (com=0.50),5,0.6,Pass
+75107,Cluster 0 (com=0.50),5,1.0,Distinction
+77692,Cluster 1 (com=0.69),5,1.0,Pass
+77995,Cluster 0 (com=0.50),3,0.6666666666666666,Pass
+79610,Cluster 0 (com=0.50),5,1.0,Pass
+80438,Cluster 0 (com=0.50),4,1.0,Pass
+84604,Cluster 0 (com=0.50),5,1.0,Distinction
+85241,Insuficiente,1,1.0,Withdrawn
+87264,Cluster 0 (com=0.50),5,0.6,Distinction
+87322,Misto,4,0.5,Pass
+91801,Insuficiente,1,1.0,Withdrawn
+94749,Cluster 0 (com=0.50),3,1.0,Fail
+98256,Insuficiente,2,1.0,Withdrawn
+101217,Insuficiente,1,1.0,Fail
+102854,Cluster 0 (com=0.50),5,1.0,Distinction
+105125,Insuficiente,1,1.0,Withdrawn
+105939,Cluster 0 (com=0.50),5,0.8,Pass
+107455,Cluster 0 (com=0.50),5,0.6,Fail
+108949,Insuficiente,2,0.5,Fail
+109577,Cluster 0 (com=0.50),4,0.75,Pass
+110820,Insuficiente,2,1.0,Withdrawn
+113702,Insuficiente,2,1.0,Withdrawn
+116529,Insuficiente,2,0.5,Fail
+119310,Cluster 0 (com=0.50),5,0.8,Pass
+119865,Cluster 0 (com=0.50),5,1.0,Distinction
+125063,Cluster 0 (com=0.50),5,0.8,Fail
+127179,Insuficiente,1,1.0,Withdrawn
+129907,Cluster 0 (com=0.50),5,0.8,Distinction
+130409,Misto,4,0.5,Pass
+131597,Cluster 0 (com=0.50),4,0.75,Pass
+132423,Insuficiente,1,1.0,Withdrawn
+132475,Cluster 0 (com=0.50),5,1.0,Pass
+135280,Cluster 0 (com=0.50),5,0.6,Distinction
+136944,Cluster 1 (com=0.69),4,0.75,Pass
+139206,Cluster 0 (com=0.50),5,1.0,Distinction
+142310,Cluster 0 (com=0.50),5,1.0,Pass
+143755,Cluster 0 (com=0.50),3,1.0,Pass
+144959,Insuficiente,2,1.0,Withdrawn
+149178,Cluster 0 (com=0.50),4,1.0,Pass
+150282,Cluster 0 (com=0.50),5,0.8,Pass
+152524,Cluster 0 (com=0.50),5,1.0,Distinction
+152917,Cluster 0 (com=0.50),5,0.8,Distinction
+155938,Cluster 0 (com=0.50),5,0.8,Pass
+157225,Insuficiente,1,1.0,Withdrawn
+159906,Misto,4,0.5,Pass
+159947,Cluster 0 (com=0.50),5,0.8,Fail
+164148,Cluster 0 (com=0.50),5,0.8,Pass
+166123,Cluster 0 (com=0.50),5,1.0,Pass
+169596,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+170874,Cluster 0 (com=0.50),5,0.8,Pass
+171692,Insuficiente,2,1.0,Withdrawn
+172493,Cluster 0 (com=0.50),5,0.8,Pass
+173412,Insuficiente,2,0.5,Withdrawn
+177492,Cluster 0 (com=0.50),5,1.0,Distinction
+184627,Insuficiente,1,1.0,Withdrawn
+184720,Insuficiente,2,1.0,Fail
+185994,Cluster 0 (com=0.50),5,1.0,Pass
+191504,Insuficiente,1,1.0,Withdrawn
+194163,Cluster 0 (com=0.50),5,1.0,Pass
+195246,Cluster 0 (com=0.50),4,1.0,Fail
+195552,Cluster 0 (com=0.50),5,0.8,Pass
+197536,Cluster 1 (com=0.69),4,1.0,Pass
+199009,Cluster 0 (com=0.50),5,0.8,Pass
+204117,Insuficiente,2,0.5,Withdrawn
+226955,Misto,4,0.5,Fail
+228633,Cluster 0 (com=0.50),5,0.8,Pass
+229498,Cluster 0 (com=0.50),5,1.0,Pass
+230947,Insuficiente,1,1.0,Fail
+232173,Cluster 0 (com=0.50),5,1.0,Pass
+234661,Cluster 0 (com=0.50),5,0.8,Pass
+235747,Insuficiente,1,1.0,Withdrawn
+235768,Misto,4,0.5,Pass
+235971,Cluster 0 (com=0.50),5,1.0,Pass
+236090,Cluster 0 (com=0.50),5,1.0,Fail
+237891,Cluster 0 (com=0.50),5,0.8,Pass
+249357,Cluster 0 (com=0.50),5,0.8,Pass
+251166,Cluster 0 (com=0.50),5,1.0,Fail
+253633,Cluster 0 (com=0.50),5,1.0,Pass
+253763,Cluster 0 (com=0.50),5,1.0,Distinction
+258245,Cluster 0 (com=0.50),5,0.6,Pass
+258509,Cluster 0 (com=0.50),5,0.6,Pass
+258978,Cluster 0 (com=0.50),5,0.6,Pass
+261863,Cluster 0 (com=0.50),3,0.6666666666666666,Withdrawn
+262025,Cluster 1 (com=0.69),5,0.8,Pass
+262394,Cluster 1 (com=0.69),5,0.8,Fail
+263862,Cluster 0 (com=0.50),5,0.6,Distinction
+265497,Cluster 0 (com=0.50),4,1.0,Pass
+268823,Insuficiente,1,1.0,Fail
+269584,Cluster 0 (com=0.50),5,0.6,Pass
+270421,Cluster 1 (com=0.69),5,1.0,Pass
+275127,Insuficiente,1,1.0,Withdrawn
+276265,Insuficiente,2,0.5,Pass
+276337,Insuficiente,1,1.0,Withdrawn
+277384,Insuficiente,2,1.0,Withdrawn
+278380,Cluster 0 (com=0.50),5,0.6,Pass
+279440,Cluster 0 (com=0.50),5,0.8,Pass
+279653,Cluster 0 (com=0.50),5,1.0,Distinction
+279883,Insuficiente,1,1.0,Withdrawn
+281134,Cluster 0 (com=0.50),5,1.0,Pass
+282849,Cluster 0 (com=0.50),5,1.0,Pass
+283402,Cluster 0 (com=0.50),5,0.8,Pass
+286778,Cluster 1 (com=0.69),5,0.8,Distinction
+287079,Cluster 0 (com=0.50),5,1.0,Fail
+287258,Cluster 0 (com=0.50),5,1.0,Pass
+289247,Cluster 0 (com=0.50),5,0.8,Distinction
+294112,Insuficiente,2,0.5,Fail
+294219,Cluster 0 (com=0.50),5,0.6,Distinction
+294920,Insuficiente,2,1.0,Withdrawn
+294929,Cluster 0 (com=0.50),4,1.0,Pass
+295893,Insuficiente,1,1.0,Fail
+297218,Cluster 0 (com=0.50),5,0.8,Pass
+297341,Cluster 0 (com=0.50),4,1.0,Pass
+301074,Cluster 0 (com=0.50),5,1.0,Pass
+301561,Insuficiente,2,0.5,Withdrawn
+305064,Cluster 0 (com=0.50),5,1.0,Pass
+305659,Cluster 1 (com=0.69),5,0.6,Distinction
+310205,Cluster 0 (com=0.50),5,0.8,Fail
+312126,Insuficiente,2,1.0,Withdrawn
+312231,Misto,4,0.5,Pass
+312960,Cluster 1 (com=0.69),5,0.6,Pass
+315795,Cluster 0 (com=0.50),5,0.8,Pass
+316082,Cluster 0 (com=0.50),5,0.6,Distinction
+318139,Insuficiente,2,1.0,Withdrawn
+318147,Cluster 0 (com=0.50),5,1.0,Pass
+319073,Cluster 0 (com=0.50),5,0.6,Pass
+320133,Cluster 0 (com=0.50),5,1.0,Distinction
+320612,Cluster 0 (com=0.50),5,1.0,Distinction
+322499,Insuficiente,2,1.0,Withdrawn
+328797,Cluster 1 (com=0.69),4,1.0,Fail
+329895,Cluster 0 (com=0.50),3,0.6666666666666666,Pass
+331789,Cluster 0 (com=0.50),5,0.8,Pass
+332237,Insuficiente,1,1.0,Fail
+333993,Cluster 0 (com=0.50),5,0.6,Pass
+334224,Cluster 0 (com=0.50),3,1.0,Withdrawn
+335095,Cluster 0 (com=0.50),4,0.75,Pass
+337000,Cluster 0 (com=0.50),5,1.0,Pass
+338689,Cluster 1 (com=0.69),5,0.6,Pass
+338806,Cluster 1 (com=0.69),3,0.6666666666666666,Pass
+339519,Cluster 0 (com=0.50),5,0.6,Pass
+340831,Insuficiente,1,1.0,Withdrawn
+341093,Insuficiente,1,1.0,Fail
+341457,Cluster 1 (com=0.69),3,0.6666666666666666,Withdrawn
+341629,Cluster 0 (com=0.50),5,0.6,Fail
+343709,Cluster 1 (com=0.69),4,0.75,Pass
+345271,Cluster 0 (com=0.50),5,1.0,Distinction
+347197,Cluster 0 (com=0.50),5,1.0,Distinction
+348108,Cluster 1 (com=0.69),5,1.0,Pass
+348324,Cluster 0 (com=0.50),5,1.0,Pass
+349515,Misto,4,0.5,Pass
+351147,Cluster 0 (com=0.50),5,0.8,Pass
+354698,Cluster 1 (com=0.69),5,0.8,Pass
+355293,Cluster 0 (com=0.50),5,0.6,Pass
+364066,Cluster 0 (com=0.50),5,1.0,Distinction
+366140,Cluster 0 (com=0.50),5,1.0,Pass
+367151,Misto,4,0.5,Withdrawn
+369242,Cluster 0 (com=0.50),5,1.0,Pass
+369450,Cluster 0 (com=0.50),5,1.0,Pass
+369644,Insuficiente,2,0.5,Withdrawn
+370735,Cluster 0 (com=0.50),5,0.6,Pass
+372345,Misto,4,0.5,Pass
+372509,Cluster 0 (com=0.50),5,0.8,Pass
+372511,Cluster 1 (com=0.69),5,1.0,Pass
+374353,Insuficiente,2,1.0,Withdrawn
+375527,Misto,4,0.5,Pass
+378705,Insuficiente,2,1.0,Fail
+378946,Cluster 0 (com=0.50),5,1.0,Pass
+379278,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+379311,Insuficiente,2,0.5,Fail
+379563,Insuficiente,1,1.0,Withdrawn
+380952,Misto,4,0.5,Pass
+381257,Cluster 0 (com=0.50),5,1.0,Pass
+381414,Cluster 0 (com=0.50),5,0.8,Pass
+381428,Insuficiente,2,1.0,Withdrawn
+381529,Insuficiente,1,1.0,Withdrawn
+383445,Misto,4,0.5,Fail
+383602,Cluster 0 (com=0.50),5,0.6,Pass
+383629,Cluster 0 (com=0.50),5,0.8,Pass
+384107,Misto,4,0.5,Fail
+386121,Insuficiente,1,1.0,Withdrawn
+386389,Cluster 0 (com=0.50),5,0.6,Pass
+386956,Insuficiente,2,0.5,Withdrawn
+389853,Insuficiente,2,1.0,Withdrawn
+390070,Cluster 1 (com=0.69),5,0.6,Fail
+393141,Insuficiente,2,0.5,Fail
+395758,Insuficiente,2,1.0,Withdrawn
+396683,Cluster 1 (com=0.69),5,0.6,Pass
+396834,Cluster 0 (com=0.50),4,0.75,Pass
+396907,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+397219,Cluster 0 (com=0.50),5,1.0,Distinction
+397292,Insuficiente,2,1.0,Fail
+397671,Cluster 0 (com=0.50),5,1.0,Distinction
+398550,Cluster 0 (com=0.50),5,1.0,Distinction
+398630,Cluster 1 (com=0.69),5,0.6,Pass
+399429,Cluster 0 (com=0.50),5,1.0,Distinction
+402695,Cluster 0 (com=0.50),5,0.6,Pass
+405193,Cluster 0 (com=0.50),5,1.0,Pass
+407232,Cluster 0 (com=0.50),5,1.0,Pass
+408499,Insuficiente,2,1.0,Withdrawn
+410407,Cluster 0 (com=0.50),5,1.0,Distinction
+410883,Cluster 1 (com=0.69),5,1.0,Pass
+411304,Cluster 0 (com=0.50),5,0.6,Pass
+412353,Cluster 0 (com=0.50),5,1.0,Pass
+413180,Cluster 0 (com=0.50),5,0.6,Pass
+413709,Cluster 0 (com=0.50),5,0.8,Pass
+413949,Cluster 0 (com=0.50),5,0.8,Pass
+416199,Cluster 0 (com=0.50),5,1.0,Pass
+416407,Cluster 0 (com=0.50),5,1.0,Pass
+418201,Cluster 0 (com=0.50),3,1.0,Fail
+419059,Cluster 0 (com=0.50),5,0.8,Distinction
+419081,Insuficiente,2,1.0,Fail
+420834,Insuficiente,1,1.0,Withdrawn
+421070,Insuficiente,2,0.5,Withdrawn
+423210,Cluster 1 (com=0.69),5,1.0,Pass
+423488,Cluster 1 (com=0.69),4,0.75,Fail
+423781,Cluster 0 (com=0.50),5,0.6,Pass
+427256,Cluster 0 (com=0.50),5,1.0,Pass
+429832,Cluster 1 (com=0.69),5,0.6,Fail
+431139,Cluster 0 (com=0.50),5,0.8,Pass
+434476,Cluster 0 (com=0.50),5,1.0,Pass
+438063,Insuficiente,2,1.0,Fail
+438644,Insuficiente,2,1.0,Fail
+439950,Cluster 1 (com=0.69),3,1.0,Fail
+439995,Cluster 0 (com=0.50),5,1.0,Pass
+440818,Cluster 0 (com=0.50),5,1.0,Pass
+441165,Cluster 0 (com=0.50),5,1.0,Pass
+441421,Cluster 1 (com=0.69),3,0.6666666666666666,Fail
+442199,Cluster 1 (com=0.69),4,0.75,Pass
+442347,Insuficiente,1,1.0,Withdrawn
+442563,Cluster 0 (com=0.50),5,1.0,Pass
+442802,Cluster 0 (com=0.50),5,1.0,Pass
+443151,Cluster 0 (com=0.50),5,0.6,Pass
+443514,Cluster 0 (com=0.50),5,0.8,Pass
+443696,Cluster 0 (com=0.50),5,0.6,Fail
+444011,Cluster 0 (com=0.50),5,0.8,Pass
+444619,Cluster 0 (com=0.50),5,0.6,Pass
+444907,Cluster 1 (com=0.69),5,0.6,Pass
+445686,Cluster 0 (com=0.50),4,1.0,Pass
+464522,Insuficiente,1,1.0,Withdrawn
+465009,Insuficiente,1,1.0,Withdrawn
+465078,Insuficiente,2,1.0,Withdrawn
+465121,Cluster 0 (com=0.50),4,0.75,Fail
+465294,Cluster 0 (com=0.50),5,1.0,Pass
+466120,Cluster 0 (com=0.50),4,1.0,Fail
+466807,Cluster 1 (com=0.69),3,0.6666666666666666,Withdrawn
+466987,Cluster 0 (com=0.50),5,0.8,Pass
+467363,Cluster 0 (com=0.50),5,0.6,Fail
+469499,Cluster 0 (com=0.50),5,1.0,Pass
+471284,Cluster 1 (com=0.69),5,0.6,Fail
+474667,Cluster 1 (com=0.69),5,0.6,Pass
+475015,Cluster 0 (com=0.50),5,1.0,Pass
+476401,Cluster 0 (com=0.50),5,1.0,Pass
+476629,Cluster 0 (com=0.50),5,1.0,Pass
+477833,Cluster 0 (com=0.50),5,1.0,Fail
+479939,Cluster 0 (com=0.50),5,1.0,Pass
+480303,Insuficiente,2,1.0,Fail
+481240,Insuficiente,1,1.0,Withdrawn
+481717,Cluster 0 (com=0.50),5,1.0,Pass
+482644,Cluster 0 (com=0.50),5,0.8,Pass
+483037,Cluster 0 (com=0.50),5,1.0,Pass
+483656,Insuficiente,2,1.0,Withdrawn
+484010,Cluster 0 (com=0.50),4,0.75,Fail
+484494,Insuficiente,1,1.0,Withdrawn
+484594,Cluster 0 (com=0.50),5,1.0,Pass
+485228,Cluster 0 (com=0.50),5,1.0,Fail
+486087,Cluster 0 (com=0.50),5,0.8,Distinction
+486964,Cluster 0 (com=0.50),5,0.6,Pass
+488525,Cluster 0 (com=0.50),5,0.8,Pass
+489553,Cluster 0 (com=0.50),4,1.0,Fail
+490297,Insuficiente,1,1.0,Fail
+491077,Insuficiente,1,1.0,Withdrawn
+491126,Cluster 0 (com=0.50),5,0.8,Pass
+491756,Insuficiente,2,1.0,Withdrawn
+491863,Cluster 0 (com=0.50),5,0.8,Pass
+491959,Insuficiente,1,1.0,Withdrawn
+492024,Cluster 1 (com=0.69),5,0.6,Pass
+492557,Insuficiente,2,1.0,Withdrawn
+493793,Cluster 0 (com=0.50),5,0.6,Pass
+494046,Cluster 0 (com=0.50),4,1.0,Pass
+494184,Cluster 0 (com=0.50),5,1.0,Pass
+496493,Insuficiente,2,1.0,Withdrawn
+497415,Cluster 0 (com=0.50),5,0.8,Pass
+498442,Cluster 0 (com=0.50),5,0.8,Distinction
+499244,Insuficiente,2,1.0,Withdrawn
+499404,Cluster 0 (com=0.50),5,1.0,Pass
+500068,Cluster 0 (com=0.50),5,1.0,Pass
+500618,Cluster 0 (com=0.50),5,0.8,Pass
+501444,Cluster 0 (com=0.50),5,0.8,Distinction
+501897,Cluster 0 (com=0.50),4,1.0,Withdrawn
+502011,Cluster 0 (com=0.50),5,1.0,Pass
+503684,Insuficiente,1,1.0,Withdrawn
+504270,Insuficiente,1,1.0,Fail
+505773,Cluster 0 (com=0.50),5,1.0,Distinction
+506705,Cluster 1 (com=0.69),5,0.6,Pass
+507311,Insuficiente,1,1.0,Fail
+507743,Cluster 0 (com=0.50),5,1.0,Pass
+507935,Cluster 0 (com=0.50),5,1.0,Distinction
+508626,Cluster 0 (com=0.50),5,1.0,Pass
+509536,Cluster 0 (com=0.50),5,1.0,Pass
+511309,Cluster 0 (com=0.50),5,1.0,Pass
+511350,Cluster 1 (com=0.69),3,1.0,Fail
+511981,Cluster 0 (com=0.50),5,0.6,Pass
+513272,Insuficiente,2,1.0,Fail
+513422,Cluster 1 (com=0.69),5,0.8,Pass
+513428,Cluster 0 (com=0.50),5,0.8,Pass
+514078,Cluster 0 (com=0.50),5,0.8,Pass
+514556,Cluster 0 (com=0.50),4,0.75,Fail
+516602,Cluster 0 (com=0.50),5,0.6,Distinction
+517551,Cluster 0 (com=0.50),5,0.6,Pass
+519115,Cluster 0 (com=0.50),5,0.8,Fail
+521032,Insuficiente,1,1.0,Withdrawn
+521115,Cluster 0 (com=0.50),5,0.6,Pass
+521153,Insuficiente,2,0.5,Fail
+521255,Insuficiente,2,1.0,Fail
+522082,Cluster 0 (com=0.50),5,1.0,Pass
+523017,Cluster 0 (com=0.50),5,1.0,Pass
+523249,Cluster 0 (com=0.50),5,0.6,Pass
+524827,Insuficiente,2,1.0,Withdrawn
+526721,Cluster 0 (com=0.50),5,1.0,Distinction
+526819,Cluster 0 (com=0.50),5,0.8,Fail
+527619,Insuficiente,1,1.0,Withdrawn
+529693,Cluster 1 (com=0.69),5,0.8,Pass
+529991,Cluster 1 (com=0.69),5,0.6,Pass
+530148,Misto,4,0.5,Withdrawn
+531018,Cluster 0 (com=0.50),5,1.0,Distinction
+531871,Cluster 0 (com=0.50),5,0.6,Pass
+532254,Cluster 0 (com=0.50),5,0.8,Pass
+533418,Cluster 0 (com=0.50),5,1.0,Distinction
+534018,Insuficiente,1,1.0,Withdrawn
+534112,Cluster 0 (com=0.50),4,1.0,Withdrawn
+534457,Cluster 0 (com=0.50),5,0.6,Pass
+535542,Insuficiente,1,1.0,Withdrawn
+535671,Misto,4,0.5,Pass
+535997,Insuficiente,2,0.5,Withdrawn
+536351,Cluster 0 (com=0.50),5,0.8,Pass
+536475,Cluster 1 (com=0.69),5,0.8,Fail
+536963,Cluster 0 (com=0.50),5,0.8,Pass
+537322,Cluster 0 (com=0.50),5,1.0,Pass
+537606,Insuficiente,2,0.5,Fail
+537811,Cluster 0 (com=0.50),5,1.0,Distinction
+539308,Cluster 0 (com=0.50),5,0.6,Fail
+539945,Cluster 1 (com=0.69),5,0.6,Pass
+540723,Cluster 0 (com=0.50),5,1.0,Pass
+541532,Cluster 0 (com=0.50),4,1.0,Withdrawn
+541921,Cluster 0 (com=0.50),5,1.0,Pass
+542202,Cluster 0 (com=0.50),5,1.0,Pass
+542550,Insuficiente,2,1.0,Withdrawn
+543010,Cluster 0 (com=0.50),5,1.0,Fail
+543432,Cluster 0 (com=0.50),3,1.0,Withdrawn
+544141,Insuficiente,2,0.5,Fail
+544745,Misto,4,0.5,Fail
+545164,Cluster 0 (com=0.50),5,1.0,Pass
+545962,Cluster 0 (com=0.50),5,1.0,Pass
+546547,Cluster 0 (com=0.50),5,0.6,Pass
+546645,Cluster 0 (com=0.50),5,0.8,Pass
+547347,Cluster 0 (com=0.50),5,0.8,Pass
+549219,Cluster 0 (com=0.50),5,0.8,Pass
+549321,Cluster 1 (com=0.69),5,0.8,Distinction
+549523,Insuficiente,2,1.0,Fail
+549847,Cluster 0 (com=0.50),5,1.0,Pass
+550420,Cluster 0 (com=0.50),5,1.0,Distinction
+550703,Cluster 0 (com=0.50),5,0.8,Distinction
+552173,Cluster 0 (com=0.50),5,1.0,Pass
+553031,Cluster 0 (com=0.50),5,0.8,Pass
+553284,Cluster 0 (com=0.50),5,1.0,Pass
+553813,Cluster 1 (com=0.69),4,0.75,Pass
+554063,Cluster 0 (com=0.50),5,0.8,Distinction
+554525,Cluster 0 (com=0.50),5,1.0,Pass
+555049,Cluster 0 (com=0.50),5,1.0,Distinction
+555827,Cluster 0 (com=0.50),3,1.0,Fail
+556126,Misto,4,0.5,Pass
+557085,Cluster 0 (com=0.50),5,1.0,Distinction
+557290,Cluster 0 (com=0.50),5,0.8,Pass
+557792,Insuficiente,1,1.0,Withdrawn
+557830,Insuficiente,1,1.0,Fail
+558044,Cluster 0 (com=0.50),5,1.0,Distinction
+558342,Insuficiente,2,0.5,Fail
+558764,Cluster 0 (com=0.50),5,1.0,Pass
+560047,Cluster 0 (com=0.50),5,1.0,Pass
+560459,Misto,4,0.5,Withdrawn
+560645,Cluster 0 (com=0.50),5,1.0,Pass
+560765,Insuficiente,1,1.0,Withdrawn
+561231,Cluster 0 (com=0.50),5,0.6,Pass
+562064,Cluster 1 (com=0.69),3,1.0,Pass
+562754,Cluster 0 (com=0.50),5,1.0,Pass
+562990,Cluster 0 (com=0.50),4,0.75,Pass
+563108,Cluster 1 (com=0.69),5,0.6,Pass
+563414,Cluster 0 (com=0.50),5,1.0,Pass
+564243,Cluster 0 (com=0.50),5,1.0,Pass
+564617,Cluster 0 (com=0.50),5,1.0,Fail
+564770,Insuficiente,1,1.0,Fail
+564821,Insuficiente,1,1.0,Withdrawn
+564933,Cluster 0 (com=0.50),5,0.8,Distinction
+565017,Cluster 0 (com=0.50),5,1.0,Pass
+566823,Insuficiente,2,0.5,Fail
+568987,Cluster 1 (com=0.69),3,0.6666666666666666,Fail
+568998,Insuficiente,2,0.5,Withdrawn
+569034,Cluster 0 (com=0.50),5,1.0,Pass
+569080,Cluster 0 (com=0.50),5,1.0,Pass
+569108,Cluster 0 (com=0.50),5,0.8,Distinction
+569876,Cluster 0 (com=0.50),5,1.0,Pass
+570004,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+570213,Cluster 0 (com=0.50),5,0.8,Fail
+570689,Insuficiente,2,0.5,Fail
+571074,Cluster 0 (com=0.50),5,1.0,Distinction
+571950,Insuficiente,1,1.0,Withdrawn
+572071,Insuficiente,1,1.0,Fail
+572074,Misto,4,0.5,Pass
+572213,Cluster 1 (com=0.69),5,0.6,Distinction
+572265,Insuficiente,2,1.0,Fail
+573007,Insuficiente,1,1.0,Withdrawn
+573583,Cluster 1 (com=0.69),5,0.8,Pass
+573697,Insuficiente,2,1.0,Withdrawn
+574527,Cluster 0 (com=0.50),5,1.0,Fail
+574695,Insuficiente,1,1.0,Withdrawn
+575069,Cluster 0 (com=0.50),5,0.8,Pass
+575112,Cluster 0 (com=0.50),5,0.8,Pass
+575302,Cluster 0 (com=0.50),5,1.0,Pass
+575685,Cluster 1 (com=0.69),3,0.6666666666666666,Fail
+577032,Cluster 0 (com=0.50),4,0.75,Fail
+577429,Cluster 0 (com=0.50),3,1.0,Fail
+577533,Cluster 0 (com=0.50),4,0.75,Pass
+578152,Cluster 0 (com=0.50),5,1.0,Pass
+578495,Insuficiente,1,1.0,Withdrawn
+578847,Cluster 0 (com=0.50),5,0.8,Distinction
+579221,Insuficiente,2,1.0,Withdrawn
+579660,Cluster 1 (com=0.69),5,0.6,Pass
+579686,Cluster 0 (com=0.50),5,0.8,Pass
+580459,Cluster 0 (com=0.50),5,1.0,Pass
+580834,Cluster 0 (com=0.50),5,1.0,Distinction
+580845,Cluster 0 (com=0.50),5,0.6,Pass
+580926,Insuficiente,2,1.0,Fail
+581219,Insuficiente,1,1.0,Fail
+581253,Cluster 0 (com=0.50),5,1.0,Pass
+581659,Cluster 0 (com=0.50),5,1.0,Distinction
+581779,Cluster 0 (com=0.50),5,1.0,Pass
+582034,Cluster 0 (com=0.50),3,1.0,Withdrawn
+582117,Cluster 0 (com=0.50),5,1.0,Pass
+582266,Misto,4,0.5,Fail
+582332,Cluster 0 (com=0.50),5,1.0,Distinction
+582530,Insuficiente,2,1.0,Fail
+582653,Cluster 1 (com=0.69),5,0.8,Pass
+582670,Cluster 0 (com=0.50),4,0.75,Fail
+583056,Cluster 0 (com=0.50),4,0.75,Fail
+583318,Cluster 1 (com=0.69),5,0.8,Pass
+583487,Cluster 0 (com=0.50),5,1.0,Pass
+584515,Cluster 0 (com=0.50),5,1.0,Pass
+584673,Insuficiente,2,1.0,Fail
+585224,Cluster 0 (com=0.50),5,1.0,Pass
+585261,Cluster 0 (com=0.50),4,1.0,Pass
+585284,Cluster 0 (com=0.50),5,0.6,Pass
+585503,Cluster 0 (com=0.50),5,1.0,Distinction
+585572,Cluster 0 (com=0.50),4,0.75,Fail
+585825,Cluster 0 (com=0.50),3,1.0,Withdrawn
+585958,Cluster 0 (com=0.50),5,1.0,Pass
+586811,Insuficiente,1,1.0,Fail
+586906,Cluster 0 (com=0.50),5,0.6,Pass
+587509,Insuficiente,1,1.0,Fail
+587571,Cluster 0 (com=0.50),5,1.0,Distinction
+587654,Insuficiente,2,0.5,Withdrawn
+587706,Insuficiente,2,0.5,Fail
+588128,Cluster 0 (com=0.50),5,0.6,Pass
+588628,Cluster 0 (com=0.50),5,1.0,Pass
+589080,Cluster 0 (com=0.50),5,1.0,Distinction
+589162,Cluster 0 (com=0.50),5,0.8,Pass
+589332,Cluster 0 (com=0.50),5,1.0,Pass
+589389,Cluster 0 (com=0.50),4,0.75,Pass
+589441,Insuficiente,2,1.0,Withdrawn
+589798,Insuficiente,1,1.0,Withdrawn
+589828,Cluster 1 (com=0.69),5,0.6,Pass
+590120,Cluster 0 (com=0.50),5,0.8,Pass
+590462,Insuficiente,1,1.0,Withdrawn
+591525,Cluster 0 (com=0.50),5,1.0,Pass
+591581,Cluster 0 (com=0.50),5,1.0,Pass
+591746,Cluster 0 (com=0.50),3,0.6666666666666666,Withdrawn
+591946,Cluster 0 (com=0.50),5,1.0,Pass
+592218,Cluster 0 (com=0.50),5,0.8,Pass
+592295,Cluster 0 (com=0.50),5,0.8,Pass
+592558,Cluster 0 (com=0.50),5,0.8,Pass
+592939,Cluster 0 (com=0.50),5,0.6,Pass
+593136,Cluster 0 (com=0.50),5,1.0,Pass
+593563,Cluster 0 (com=0.50),5,1.0,Pass
+593722,Cluster 0 (com=0.50),5,0.8,Fail
+593796,Cluster 0 (com=0.50),5,1.0,Distinction
+594065,Cluster 0 (com=0.50),5,1.0,Distinction
+594122,Cluster 0 (com=0.50),5,1.0,Pass
+594229,Cluster 0 (com=0.50),5,1.0,Pass
+594258,Cluster 1 (com=0.69),5,0.6,Fail
+594406,Cluster 0 (com=0.50),4,1.0,Fail
+594615,Insuficiente,2,0.5,Fail
+594636,Cluster 0 (com=0.50),5,1.0,Pass
+595262,Cluster 0 (com=0.50),3,1.0,Withdrawn
+595721,Cluster 0 (com=0.50),5,0.6,Pass
+595943,Cluster 0 (com=0.50),5,1.0,Pass
+596052,Insuficiente,1,1.0,Withdrawn
+596203,Insuficiente,1,1.0,Withdrawn
+596243,Cluster 0 (com=0.50),5,0.6,Pass
+596253,Cluster 1 (com=0.69),5,0.6,Pass
+596464,Insuficiente,1,1.0,Withdrawn
+596758,Cluster 0 (com=0.50),5,1.0,Pass
+596805,Insuficiente,2,0.5,Withdrawn
+597740,Cluster 0 (com=0.50),5,0.8,Pass
+597937,Cluster 0 (com=0.50),5,1.0,Fail
+598308,Cluster 0 (com=0.50),5,1.0,Pass
+598540,Cluster 0 (com=0.50),5,1.0,Pass
+598559,Cluster 0 (com=0.50),5,1.0,Pass
+598757,Insuficiente,1,1.0,Fail
+599297,Insuficiente,2,1.0,Fail
+599865,Insuficiente,2,0.5,Fail
+600071,Cluster 0 (com=0.50),5,1.0,Pass
+600405,Insuficiente,2,1.0,Fail
+600615,Insuficiente,2,1.0,Withdrawn
+600773,Cluster 0 (com=0.50),4,1.0,Withdrawn
+600893,Insuficiente,2,0.5,Fail
+601008,Cluster 1 (com=0.69),5,1.0,Pass
+601235,Cluster 0 (com=0.50),5,1.0,Pass
+601271,Cluster 0 (com=0.50),5,1.0,Fail
+601680,Cluster 0 (com=0.50),3,0.6666666666666666,Withdrawn
+601820,Cluster 1 (com=0.69),4,1.0,Pass
+602594,Cluster 0 (com=0.50),5,1.0,Pass
+603648,Cluster 0 (com=0.50),5,0.8,Pass
+603931,Insuficiente,2,1.0,Withdrawn
+604567,Cluster 0 (com=0.50),5,0.6,Pass
+604614,Cluster 0 (com=0.50),5,0.6,Pass
+604907,Insuficiente,1,1.0,Fail
+605180,Cluster 0 (com=0.50),5,0.6,Pass
+605228,Insuficiente,2,0.5,Fail
+605394,Cluster 1 (com=0.69),3,0.6666666666666666,Fail
+605682,Cluster 0 (com=0.50),5,1.0,Pass
+606257,Cluster 0 (com=0.50),5,0.8,Pass
+606428,Insuficiente,2,0.5,Withdrawn
+606805,Cluster 1 (com=0.69),4,0.75,Withdrawn
+606904,Cluster 0 (com=0.50),5,0.8,Fail
+607243,Cluster 0 (com=0.50),5,1.0,Pass
+607303,Cluster 0 (com=0.50),5,1.0,Pass
+607501,Cluster 0 (com=0.50),5,1.0,Pass
+607679,Cluster 0 (com=0.50),5,1.0,Pass
+607700,Cluster 0 (com=0.50),5,0.8,Pass
+607733,Insuficiente,1,1.0,Withdrawn
+607866,Insuficiente,1,1.0,Pass
+609142,Cluster 0 (com=0.50),5,1.0,Distinction
+609240,Cluster 0 (com=0.50),5,1.0,Pass
+611603,Cluster 0 (com=0.50),5,0.6,Pass
+612842,Cluster 0 (com=0.50),5,0.8,Pass
+613165,Cluster 0 (com=0.50),5,1.0,Pass
+613330,Cluster 0 (com=0.50),5,1.0,Pass
+613634,Cluster 0 (com=0.50),5,1.0,Pass
+613899,Cluster 0 (com=0.50),5,1.0,Distinction
+613966,Insuficiente,2,1.0,Fail
+614059,Cluster 0 (com=0.50),5,0.6,Pass
+614984,Cluster 0 (com=0.50),5,1.0,Pass
+615266,Cluster 0 (com=0.50),5,1.0,Distinction
+615299,Cluster 0 (com=0.50),5,1.0,Distinction
+615301,Cluster 0 (com=0.50),5,0.6,Pass
+615302,Cluster 0 (com=0.50),5,1.0,Pass
+615306,Cluster 0 (com=0.50),5,1.0,Pass
+615328,Misto,4,0.5,Withdrawn
+615340,Cluster 0 (com=0.50),5,0.6,Pass
+615342,Cluster 0 (com=0.50),5,0.8,Pass
+615356,Cluster 0 (com=0.50),4,1.0,Pass
+616517,Cluster 0 (com=0.50),5,0.8,Distinction
+616912,Cluster 0 (com=0.50),5,1.0,Distinction
+617010,Cluster 0 (com=0.50),5,1.0,Pass
+617119,Cluster 0 (com=0.50),5,0.6,Pass
+617150,Insuficiente,2,1.0,Withdrawn
+617332,Insuficiente,1,1.0,Fail
+617436,Cluster 0 (com=0.50),3,0.6666666666666666,Withdrawn
+617580,Cluster 0 (com=0.50),5,1.0,Pass
+617783,Misto,4,0.5,Fail
+617922,Cluster 0 (com=0.50),5,1.0,Pass
+618252,Insuficiente,1,1.0,Withdrawn
+618663,Cluster 0 (com=0.50),5,0.6,Pass
+619204,Cluster 1 (com=0.69),5,0.8,Pass
+619292,Cluster 0 (com=0.50),5,1.0,Distinction
+619321,Cluster 0 (com=0.50),5,1.0,Pass
+619502,Cluster 1 (com=0.69),5,1.0,Pass
+620094,Cluster 0 (com=0.50),5,1.0,Distinction
+620112,Insuficiente,2,0.5,Withdrawn
+620269,Cluster 0 (com=0.50),5,0.8,Pass
+620349,Cluster 0 (com=0.50),4,1.0,Withdrawn
+620431,Cluster 0 (com=0.50),5,0.8,Pass
+620740,Cluster 1 (com=0.69),5,0.6,Pass
+620750,Insuficiente,2,1.0,Withdrawn
+620810,Cluster 0 (com=0.50),5,0.6,Pass
+622275,Cluster 0 (com=0.50),3,1.0,Withdrawn
+622362,Insuficiente,1,1.0,Withdrawn
+622481,Cluster 0 (com=0.50),5,1.0,Distinction
+622760,Cluster 0 (com=0.50),5,0.8,Distinction
+622899,Insuficiente,1,1.0,Withdrawn
+622934,Cluster 1 (com=0.69),5,0.6,Pass
+622967,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+623166,Insuficiente,2,0.5,Withdrawn
+623230,Insuficiente,2,1.0,Withdrawn
+623471,Cluster 0 (com=0.50),5,1.0,Pass
+623589,Cluster 0 (com=0.50),5,0.8,Distinction
+623765,Cluster 0 (com=0.50),5,1.0,Pass
+623917,Insuficiente,1,1.0,Withdrawn
+623955,Insuficiente,1,1.0,Fail
+624282,Cluster 0 (com=0.50),5,0.8,Distinction
+624864,Cluster 0 (com=0.50),5,1.0,Distinction
+624970,Cluster 0 (com=0.50),5,1.0,Pass
+625245,Cluster 0 (com=0.50),5,1.0,Pass
+625330,Cluster 0 (com=0.50),4,1.0,Withdrawn
+625515,Cluster 0 (com=0.50),4,1.0,Pass
+625609,Insuficiente,2,1.0,Fail
+625743,Cluster 0 (com=0.50),5,0.6,Pass
+625802,Cluster 0 (com=0.50),5,0.8,Fail
+625838,Cluster 0 (com=0.50),5,0.8,Pass
+626033,Cluster 0 (com=0.50),5,1.0,Distinction
+626349,Cluster 0 (com=0.50),4,1.0,Fail
+626416,Cluster 0 (com=0.50),5,1.0,Distinction
+626454,Cluster 1 (com=0.69),5,0.6,Pass
+626477,Cluster 0 (com=0.50),5,1.0,Pass
+626514,Cluster 0 (com=0.50),5,1.0,Pass
+626539,Insuficiente,1,1.0,Withdrawn
+626552,Cluster 0 (com=0.50),5,0.8,Pass
+626579,Cluster 0 (com=0.50),5,0.6,Fail
+627365,Cluster 0 (com=0.50),5,1.0,Distinction
+627379,Insuficiente,1,1.0,Withdrawn
+627829,Cluster 0 (com=0.50),5,1.0,Pass
+628149,Cluster 0 (com=0.50),5,1.0,Pass
+628157,Cluster 1 (com=0.69),5,0.6,Pass
+628308,Insuficiente,2,1.0,Withdrawn
+628383,Cluster 0 (com=0.50),5,1.0,Pass
+628521,Cluster 1 (com=0.69),5,0.6,Pass
+628888,Cluster 0 (com=0.50),5,0.8,Pass
+628964,Cluster 0 (com=0.50),5,1.0,Distinction
+629029,Cluster 0 (com=0.50),5,1.0,Fail
+629182,Insuficiente,2,0.5,Fail
+629491,Cluster 0 (com=0.50),5,1.0,Pass
+629522,Cluster 1 (com=0.69),3,0.6666666666666666,Withdrawn
+629594,Insuficiente,2,1.0,Fail
+629686,Insuficiente,1,1.0,Withdrawn
+629818,Cluster 1 (com=0.69),5,0.6,Distinction
+629922,Cluster 0 (com=0.50),5,0.6,Pass
+629944,Cluster 0 (com=0.50),5,0.6,Distinction
+630109,Cluster 0 (com=0.50),5,0.8,Pass
+630158,Cluster 0 (com=0.50),5,0.8,Pass
+630168,Insuficiente,1,1.0,Withdrawn
+630186,Insuficiente,1,1.0,Withdrawn
+630745,Insuficiente,2,1.0,Withdrawn
+630835,Cluster 0 (com=0.50),5,1.0,Distinction
+630905,Cluster 0 (com=0.50),5,1.0,Distinction
+630910,Cluster 0 (com=0.50),5,1.0,Pass
+630992,Cluster 0 (com=0.50),4,0.75,Fail
+631075,Insuficiente,1,1.0,Fail
+631193,Insuficiente,1,1.0,Withdrawn
+631438,Insuficiente,1,1.0,Fail
+631524,Cluster 0 (com=0.50),3,1.0,Fail
+631658,Cluster 0 (com=0.50),5,1.0,Distinction
+631681,Cluster 0 (com=0.50),5,0.8,Pass
+631715,Cluster 0 (com=0.50),5,0.8,Distinction
+631740,Cluster 0 (com=0.50),5,0.6,Pass
+631837,Cluster 0 (com=0.50),5,1.0,Distinction
+631924,Cluster 0 (com=0.50),5,1.0,Distinction
+632074,Cluster 0 (com=0.50),5,0.8,Distinction
+632179,Insuficiente,2,0.5,Withdrawn
+632276,Insuficiente,1,1.0,Withdrawn
+632290,Cluster 1 (com=0.69),5,0.6,Pass
+632458,Cluster 0 (com=0.50),5,1.0,Distinction
+632556,Cluster 1 (com=0.69),4,0.75,Fail
+632597,Cluster 1 (com=0.69),4,1.0,Pass
+632826,Cluster 0 (com=0.50),5,0.8,Pass
+632836,Cluster 0 (com=0.50),5,0.6,Pass
+633079,Cluster 0 (com=0.50),5,0.8,Pass
+633516,Cluster 0 (com=0.50),5,0.8,Pass
+633555,Cluster 0 (com=0.50),5,1.0,Distinction
+633568,Cluster 0 (com=0.50),5,0.8,Pass
+633628,Insuficiente,2,1.0,Fail
+633867,Cluster 0 (com=0.50),5,1.0,Pass
+633931,Cluster 0 (com=0.50),5,1.0,Distinction
+634088,Cluster 0 (com=0.50),5,0.6,Distinction
+634114,Cluster 0 (com=0.50),3,1.0,Fail
+634512,Cluster 0 (com=0.50),5,1.0,Pass
+634526,Cluster 0 (com=0.50),5,0.8,Pass
+634601,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+634749,Cluster 0 (com=0.50),5,1.0,Pass
+634943,Insuficiente,1,1.0,Withdrawn
+635184,Cluster 0 (com=0.50),5,1.0,Fail
+635410,Insuficiente,1,1.0,Fail
+635746,Insuficiente,1,1.0,Withdrawn
+635751,Misto,4,0.5,Fail
+635795,Cluster 0 (com=0.50),5,1.0,Pass
+635903,Misto,4,0.5,Fail
+635985,Insuficiente,1,1.0,Fail
+636314,Cluster 0 (com=0.50),5,1.0,Pass
+636375,Insuficiente,2,1.0,Withdrawn
+636400,Cluster 0 (com=0.50),5,1.0,Pass
+636408,Cluster 0 (com=0.50),5,0.8,Pass
+636469,Cluster 0 (com=0.50),5,0.8,Distinction
+636492,Insuficiente,1,1.0,Withdrawn
+636547,Cluster 0 (com=0.50),4,0.75,Fail
+636565,Cluster 1 (com=0.69),5,1.0,Pass
+636634,Insuficiente,1,1.0,Withdrawn
+636656,Cluster 0 (com=0.50),5,0.8,Pass
+636704,Cluster 0 (com=0.50),5,0.6,Fail
+636783,Cluster 0 (com=0.50),5,1.0,Distinction
+636830,Cluster 0 (com=0.50),5,1.0,Distinction
+636832,Cluster 0 (com=0.50),5,1.0,Pass
+637004,Cluster 0 (com=0.50),5,1.0,Pass
+637089,Cluster 1 (com=0.69),3,0.6666666666666666,Fail
+637358,Cluster 0 (com=0.50),5,0.8,Pass
+637509,Insuficiente,2,1.0,Fail
+637514,Cluster 1 (com=0.69),3,0.6666666666666666,Withdrawn
+637563,Insuficiente,2,0.5,Fail
+637582,Cluster 0 (com=0.50),5,1.0,Fail
+637708,Cluster 0 (com=0.50),5,1.0,Distinction
+637788,Insuficiente,2,0.5,Fail
+637800,Insuficiente,1,1.0,Withdrawn
+637906,Cluster 0 (com=0.50),5,0.8,Pass
+637939,Cluster 1 (com=0.69),4,0.75,Fail
+637980,Cluster 0 (com=0.50),5,1.0,Pass
+638034,Cluster 0 (com=0.50),5,0.8,Pass
+638388,Cluster 0 (com=0.50),5,0.6,Pass
+638411,Cluster 0 (com=0.50),5,1.0,Pass
+638498,Cluster 0 (com=0.50),5,1.0,Pass
+638515,Cluster 0 (com=0.50),5,0.6,Pass
+638625,Cluster 0 (com=0.50),5,1.0,Pass
+638655,Cluster 0 (com=0.50),5,1.0,Pass
+638677,Cluster 0 (com=0.50),4,1.0,Withdrawn
+638831,Cluster 1 (com=0.69),4,1.0,Fail
+639028,Cluster 0 (com=0.50),5,0.6,Pass
+639231,Cluster 0 (com=0.50),5,0.8,Pass
+639234,Cluster 0 (com=0.50),4,1.0,Withdrawn
+639238,Insuficiente,2,1.0,Withdrawn
+639522,Cluster 1 (com=0.69),5,0.6,Pass
+639919,Insuficiente,1,1.0,Withdrawn
+640098,Cluster 0 (com=0.50),5,1.0,Pass
+640278,Cluster 0 (com=0.50),5,1.0,Pass
+640329,Cluster 0 (com=0.50),5,1.0,Pass
+640429,Cluster 0 (com=0.50),5,1.0,Distinction
+640552,Insuficiente,1,1.0,Withdrawn
+640584,Insuficiente,2,0.5,Withdrawn
+640711,Cluster 0 (com=0.50),5,1.0,Pass
+640752,Misto,4,0.5,Pass
+640848,Cluster 0 (com=0.50),5,0.6,Pass
+640892,Cluster 1 (com=0.69),5,0.6,Pass
+640913,Cluster 1 (com=0.69),4,1.0,Pass
+640927,Cluster 0 (com=0.50),5,0.8,Pass
+641085,Insuficiente,2,0.5,Fail
+641137,Cluster 0 (com=0.50),5,1.0,Distinction
+641275,Insuficiente,1,1.0,Withdrawn
+641309,Cluster 0 (com=0.50),5,0.8,Pass
+641311,Cluster 0 (com=0.50),5,1.0,Distinction
+641363,Cluster 1 (com=0.69),5,0.8,Pass
+641401,Cluster 0 (com=0.50),5,0.6,Distinction
+641404,Insuficiente,1,1.0,Withdrawn
+641433,Insuficiente,2,0.5,Fail
+641461,Cluster 0 (com=0.50),5,0.8,Pass
+641470,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+641547,Cluster 1 (com=0.69),5,0.8,Pass
+641804,Insuficiente,2,0.5,Withdrawn
+641864,Cluster 0 (com=0.50),5,1.0,Distinction
+641914,Cluster 0 (com=0.50),5,1.0,Pass
+642029,Cluster 0 (com=0.50),5,1.0,Pass
+642056,Cluster 0 (com=0.50),5,0.6,Distinction
+642375,Cluster 0 (com=0.50),5,1.0,Pass
+642448,Cluster 0 (com=0.50),5,0.8,Pass
+642449,Cluster 0 (com=0.50),5,1.0,Pass
+642493,Cluster 0 (com=0.50),5,1.0,Pass
+642496,Insuficiente,2,0.5,Withdrawn
+642498,Cluster 0 (com=0.50),5,1.0,Pass
+642551,Cluster 0 (com=0.50),5,1.0,Pass
+642626,Insuficiente,2,1.0,Withdrawn
+642730,Insuficiente,1,1.0,Fail
+642740,Cluster 0 (com=0.50),5,0.8,Distinction
+642750,Cluster 0 (com=0.50),5,1.0,Distinction
+642790,Insuficiente,2,1.0,Withdrawn
+642840,Cluster 0 (com=0.50),3,1.0,Fail
+642843,Cluster 0 (com=0.50),5,1.0,Pass
+642872,Cluster 0 (com=0.50),5,1.0,Pass
+642909,Cluster 1 (com=0.69),5,0.6,Pass
+642939,Insuficiente,1,1.0,Withdrawn
+643069,Cluster 0 (com=0.50),5,1.0,Pass
+643202,Cluster 0 (com=0.50),5,1.0,Distinction
+643220,Cluster 1 (com=0.69),5,0.6,Distinction
+643273,Cluster 0 (com=0.50),5,0.8,Pass
+643326,Cluster 0 (com=0.50),5,1.0,Pass
+643372,Insuficiente,2,1.0,Fail
+643466,Cluster 0 (com=0.50),5,1.0,Pass
+643477,Cluster 0 (com=0.50),5,1.0,Pass
+643496,Cluster 0 (com=0.50),5,1.0,Pass
+643502,Cluster 0 (com=0.50),5,1.0,Pass
+643591,Cluster 0 (com=0.50),5,1.0,Distinction
+643653,Cluster 0 (com=0.50),5,1.0,Pass
+643690,Insuficiente,1,1.0,Withdrawn
+643696,Cluster 0 (com=0.50),3,1.0,Fail
+643751,Cluster 0 (com=0.50),5,1.0,Distinction
+643754,Cluster 0 (com=0.50),5,1.0,Distinction
+643757,Insuficiente,2,1.0,Fail
+644025,Cluster 0 (com=0.50),5,0.8,Pass
+644210,Cluster 0 (com=0.50),5,1.0,Pass
+644303,Insuficiente,1,1.0,Withdrawn
+644343,Cluster 1 (com=0.69),5,0.6,Pass
+644361,Cluster 0 (com=0.50),5,1.0,Pass
+644369,Cluster 1 (com=0.69),5,0.6,Pass
+644430,Insuficiente,1,1.0,Fail
+644450,Cluster 0 (com=0.50),5,1.0,Distinction
+644508,Cluster 0 (com=0.50),5,0.6,Pass
+644761,Cluster 0 (com=0.50),5,1.0,Pass
+644784,Cluster 0 (com=0.50),4,0.75,Pass
+644791,Cluster 0 (com=0.50),5,1.0,Pass
+644818,Cluster 0 (com=0.50),5,1.0,Pass
+644847,Cluster 0 (com=0.50),4,0.75,Pass
+644871,Insuficiente,1,1.0,Withdrawn
+644936,Cluster 0 (com=0.50),5,0.8,Pass
+644974,Cluster 0 (com=0.50),5,1.0,Distinction
+645003,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+645020,Cluster 0 (com=0.50),5,0.8,Pass
+645078,Cluster 0 (com=0.50),5,1.0,Distinction
+645145,Cluster 0 (com=0.50),3,1.0,Fail
+645366,Insuficiente,1,1.0,Withdrawn
+645405,Cluster 0 (com=0.50),5,1.0,Pass
+645433,Misto,4,0.5,Withdrawn
+645496,Cluster 0 (com=0.50),4,1.0,Fail
+645518,Cluster 0 (com=0.50),5,1.0,Fail
+645586,Cluster 1 (com=0.69),5,0.6,Pass
+645705,Cluster 0 (com=0.50),5,1.0,Pass
+645732,Cluster 0 (com=0.50),3,1.0,Pass
+645784,Cluster 0 (com=0.50),5,1.0,Pass
+645790,Insuficiente,2,0.5,Fail
+645840,Cluster 0 (com=0.50),5,1.0,Fail
+645880,Cluster 1 (com=0.69),4,0.75,Fail
+645948,Cluster 0 (com=0.50),4,0.75,Pass
+645960,Cluster 1 (com=0.69),5,0.6,Pass
+645997,Cluster 0 (com=0.50),5,1.0,Pass
+646015,Cluster 0 (com=0.50),5,1.0,Distinction
+646017,Cluster 0 (com=0.50),5,1.0,Pass
+646053,Cluster 1 (com=0.69),5,0.6,Pass
+646074,Cluster 0 (com=0.50),5,1.0,Pass
+646085,Cluster 0 (com=0.50),5,1.0,Distinction
+646091,Insuficiente,1,1.0,Withdrawn
+646138,Cluster 0 (com=0.50),5,0.8,Pass
+646313,Cluster 0 (com=0.50),5,0.8,Pass
+646357,Cluster 0 (com=0.50),5,1.0,Distinction
+646402,Cluster 0 (com=0.50),5,1.0,Pass
+646460,Cluster 0 (com=0.50),5,1.0,Pass
+646539,Cluster 1 (com=0.69),5,0.6,Pass
+646540,Cluster 0 (com=0.50),5,0.8,Distinction
+646551,Cluster 0 (com=0.50),5,1.0,Pass
+646638,Cluster 1 (com=0.69),5,0.8,Pass
+646670,Cluster 1 (com=0.69),5,1.0,Pass
+646734,Cluster 1 (com=0.69),4,0.75,Withdrawn
+646742,Insuficiente,1,1.0,Withdrawn
+646750,Cluster 0 (com=0.50),5,0.8,Pass
+646778,Cluster 0 (com=0.50),5,1.0,Distinction
+646807,Cluster 0 (com=0.50),3,1.0,Withdrawn
+646990,Cluster 0 (com=0.50),5,1.0,Pass
+647005,Insuficiente,2,1.0,Withdrawn
+647033,Insuficiente,1,1.0,Withdrawn
+647040,Cluster 0 (com=0.50),5,0.8,Pass
+647045,Insuficiente,1,1.0,Fail
+647154,Cluster 1 (com=0.69),5,0.6,Pass
+647169,Cluster 0 (com=0.50),5,1.0,Distinction
+647171,Insuficiente,1,1.0,Fail
+647210,Insuficiente,1,1.0,Withdrawn
+647320,Cluster 0 (com=0.50),5,0.6,Pass
+647324,Cluster 0 (com=0.50),5,1.0,Distinction
+647339,Insuficiente,2,0.5,Fail
+647348,Insuficiente,2,0.5,Withdrawn
+647391,Cluster 1 (com=0.69),5,0.8,Pass
+647398,Cluster 0 (com=0.50),5,1.0,Pass
+647399,Cluster 0 (com=0.50),5,1.0,Pass
+647425,Cluster 0 (com=0.50),5,0.8,Pass
+647485,Cluster 1 (com=0.69),5,0.6,Pass
+647496,Cluster 0 (com=0.50),4,1.0,Pass
+647525,Insuficiente,1,1.0,Withdrawn
+647765,Cluster 0 (com=0.50),5,0.6,Pass
+647784,Insuficiente,1,1.0,Withdrawn
+647841,Cluster 0 (com=0.50),5,1.0,Pass
+647898,Cluster 0 (com=0.50),5,0.8,Distinction
+647910,Cluster 1 (com=0.69),3,1.0,Fail
+647915,Insuficiente,1,1.0,Withdrawn
+647945,Cluster 0 (com=0.50),5,1.0,Pass
+647987,Cluster 0 (com=0.50),4,0.75,Fail
+648027,Cluster 0 (com=0.50),5,0.6,Pass
+648037,Cluster 0 (com=0.50),5,1.0,Distinction
+648038,Cluster 0 (com=0.50),5,1.0,Pass
+648040,Cluster 0 (com=0.50),5,1.0,Pass
+648086,Cluster 0 (com=0.50),5,0.6,Pass
+648105,Cluster 0 (com=0.50),5,0.6,Pass
+648114,Cluster 0 (com=0.50),5,1.0,Pass
+648116,Cluster 0 (com=0.50),5,0.8,Pass
+648140,Cluster 0 (com=0.50),5,0.6,Pass
+648190,Insuficiente,1,1.0,Fail
+648244,Insuficiente,2,0.5,Fail
+648254,Cluster 1 (com=0.69),5,0.6,Pass
+648287,Cluster 0 (com=0.50),5,0.8,Pass
+648353,Insuficiente,2,1.0,Fail
+648365,Cluster 0 (com=0.50),5,1.0,Pass
+648366,Cluster 0 (com=0.50),5,1.0,Distinction
+648455,Insuficiente,1,1.0,Fail
+648457,Cluster 0 (com=0.50),5,0.6,Distinction
+648470,Cluster 0 (com=0.50),5,1.0,Distinction
+648508,Insuficiente,2,1.0,Fail
+648515,Insuficiente,2,1.0,Fail
+648531,Cluster 0 (com=0.50),5,1.0,Distinction
+648536,Cluster 0 (com=0.50),5,0.6,Distinction
+648564,Cluster 0 (com=0.50),5,0.8,Pass
+648571,Cluster 0 (com=0.50),5,1.0,Distinction
+648590,Cluster 0 (com=0.50),5,0.6,Pass
+648613,Cluster 1 (com=0.69),5,0.6,Pass
+648661,Insuficiente,2,0.5,Fail
+648685,Cluster 0 (com=0.50),5,1.0,Distinction
+648725,Insuficiente,1,1.0,Withdrawn
+648804,Cluster 0 (com=0.50),4,1.0,Fail
+648815,Cluster 0 (com=0.50),5,1.0,Pass
+648903,Cluster 0 (com=0.50),5,0.6,Pass
+648927,Insuficiente,1,1.0,Withdrawn
+648972,Cluster 1 (com=0.69),5,0.6,Pass
+648995,Insuficiente,2,0.5,Withdrawn
+649004,Cluster 0 (com=0.50),5,1.0,Pass
+649009,Cluster 1 (com=0.69),4,0.75,Fail
+649020,Insuficiente,1,1.0,Withdrawn
+649036,Insuficiente,2,0.5,Withdrawn
+649079,Cluster 0 (com=0.50),4,1.0,Withdrawn
+649084,Cluster 0 (com=0.50),5,0.8,Pass
+649093,Cluster 0 (com=0.50),5,0.8,Distinction
+649118,Misto,4,0.5,Pass
+649141,Cluster 0 (com=0.50),4,0.75,Withdrawn
+649159,Cluster 0 (com=0.50),5,1.0,Pass
+649165,Cluster 1 (com=0.69),5,0.6,Pass
+649207,Cluster 0 (com=0.50),5,1.0,Pass
+649212,Cluster 0 (com=0.50),5,0.6,Pass
+649230,Misto,4,0.5,Withdrawn
+649258,Cluster 1 (com=0.69),5,0.6,Fail
+649284,Cluster 1 (com=0.69),5,0.6,Pass
+649325,Cluster 1 (com=0.69),3,0.6666666666666666,Withdrawn
+649336,Insuficiente,2,1.0,Withdrawn
+649379,Cluster 0 (com=0.50),5,1.0,Pass
+649385,Insuficiente,2,1.0,Withdrawn
+649400,Cluster 0 (com=0.50),5,1.0,Pass
+649434,Cluster 0 (com=0.50),5,1.0,Pass
+649435,Cluster 0 (com=0.50),5,1.0,Pass
+649457,Cluster 0 (com=0.50),5,1.0,Pass
+649469,Cluster 0 (com=0.50),3,1.0,Fail
+649566,Cluster 1 (com=0.69),3,0.6666666666666666,Fail
+649580,Insuficiente,1,1.0,Withdrawn
+649619,Cluster 0 (com=0.50),5,1.0,Distinction
+649735,Cluster 1 (com=0.69),5,0.6,Pass
+649806,Cluster 1 (com=0.69),4,1.0,Fail
+649891,Cluster 1 (com=0.69),3,0.6666666666666666,Withdrawn
+649952,Cluster 0 (com=0.50),5,0.8,Pass
+649954,Cluster 0 (com=0.50),3,0.6666666666666666,Withdrawn
+649979,Cluster 0 (com=0.50),5,0.8,Pass
+650031,Misto,4,0.5,Fail
+650048,Insuficiente,1,1.0,Fail
+650054,Cluster 0 (com=0.50),3,1.0,Withdrawn
+650085,Insuficiente,1,1.0,Withdrawn
+650108,Cluster 0 (com=0.50),5,1.0,Pass
+650123,Insuficiente,2,0.5,Withdrawn
+650148,Insuficiente,2,0.5,Withdrawn
+650160,Cluster 0 (com=0.50),5,1.0,Distinction
+650170,Cluster 0 (com=0.50),3,1.0,Fail
+650251,Cluster 0 (com=0.50),5,1.0,Distinction
+650287,Insuficiente,2,1.0,Withdrawn
+650363,Cluster 1 (com=0.69),5,0.6,Pass
+650370,Cluster 0 (com=0.50),5,0.6,Pass
+650424,Cluster 0 (com=0.50),5,1.0,Pass
+650461,Misto,4,0.5,Pass
+650469,Cluster 0 (com=0.50),5,1.0,Pass
+650473,Cluster 0 (com=0.50),5,1.0,Pass
+650543,Insuficiente,1,1.0,Fail
+650570,Cluster 0 (com=0.50),5,1.0,Pass
+650682,Cluster 0 (com=0.50),3,0.6666666666666666,Withdrawn
+650716,Insuficiente,1,1.0,Fail
+650717,Insuficiente,2,0.5,Withdrawn
+650758,Cluster 1 (com=0.69),3,0.6666666666666666,Fail
+650861,Cluster 1 (com=0.69),3,1.0,Fail
+650866,Cluster 0 (com=0.50),5,1.0,Pass
+650923,Cluster 0 (com=0.50),5,0.8,Pass
+650960,Cluster 0 (com=0.50),5,0.6,Pass
+651040,Cluster 1 (com=0.69),5,0.6,Pass
+651121,Cluster 0 (com=0.50),5,1.0,Pass
+651126,Cluster 0 (com=0.50),5,0.6,Pass
+651182,Cluster 0 (com=0.50),4,0.75,Pass
+651200,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+651238,Cluster 0 (com=0.50),4,1.0,Pass
+651253,Insuficiente,2,1.0,Withdrawn
+651330,Cluster 1 (com=0.69),4,1.0,Fail
+651334,Insuficiente,2,1.0,Fail
+651354,Cluster 0 (com=0.50),5,1.0,Pass
+651381,Cluster 0 (com=0.50),5,0.8,Pass
+651398,Insuficiente,1,1.0,Withdrawn
+651419,Cluster 0 (com=0.50),5,1.0,Pass
+651478,Cluster 0 (com=0.50),5,1.0,Distinction
+651498,Cluster 0 (com=0.50),5,1.0,Pass
+651555,Cluster 1 (com=0.69),5,1.0,Distinction
+651598,Cluster 0 (com=0.50),5,1.0,Distinction
+651693,Cluster 1 (com=0.69),3,1.0,Fail
+651881,Cluster 0 (com=0.50),5,0.8,Pass
+651886,Insuficiente,2,0.5,Withdrawn
+651927,Cluster 0 (com=0.50),5,0.8,Distinction
+651972,Insuficiente,1,1.0,Fail
+651990,Cluster 0 (com=0.50),5,1.0,Pass
+652008,Cluster 0 (com=0.50),5,1.0,Pass
+652064,Cluster 0 (com=0.50),5,1.0,Distinction
+652087,Cluster 0 (com=0.50),5,1.0,Pass
+652333,Cluster 0 (com=0.50),5,0.6,Pass
+652335,Cluster 0 (com=0.50),5,1.0,Pass
+652336,Insuficiente,1,1.0,Withdrawn
+652438,Cluster 0 (com=0.50),4,0.75,Pass
+652576,Cluster 0 (com=0.50),5,0.8,Pass
+652593,Insuficiente,1,1.0,Withdrawn
+652625,Cluster 0 (com=0.50),5,0.8,Distinction
+652647,Insuficiente,2,1.0,Fail
+652659,Cluster 1 (com=0.69),3,0.6666666666666666,Pass
+652664,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+652672,Cluster 0 (com=0.50),5,0.8,Pass
+652684,Cluster 0 (com=0.50),5,0.8,Distinction
+652711,Cluster 1 (com=0.69),5,0.6,Pass
+652752,Insuficiente,1,1.0,Fail
+652753,Cluster 0 (com=0.50),5,1.0,Pass
+652769,Insuficiente,2,0.5,Fail
+652788,Cluster 0 (com=0.50),5,0.8,Distinction
+652801,Insuficiente,2,1.0,Withdrawn
+652824,Insuficiente,1,1.0,Fail
+652832,Insuficiente,1,1.0,Withdrawn
+652887,Cluster 0 (com=0.50),5,1.0,Pass
+652890,Cluster 1 (com=0.69),5,0.8,Fail
+652898,Cluster 0 (com=0.50),5,1.0,Pass
+652994,Cluster 1 (com=0.69),5,0.8,Pass
+652998,Insuficiente,1,1.0,Fail
+653045,Cluster 0 (com=0.50),5,1.0,Pass
+653115,Cluster 1 (com=0.69),4,0.75,Pass
+653144,Cluster 0 (com=0.50),4,0.75,Withdrawn
+653183,Insuficiente,1,1.0,Withdrawn
+653297,Cluster 0 (com=0.50),5,0.8,Pass
+653301,Cluster 0 (com=0.50),5,1.0,Pass
+653356,Insuficiente,2,0.5,Withdrawn
+653372,Insuficiente,2,0.5,Withdrawn
+653381,Cluster 0 (com=0.50),5,1.0,Pass
+653417,Cluster 1 (com=0.69),5,0.8,Pass
+653536,Cluster 0 (com=0.50),4,0.75,Pass
+653558,Cluster 0 (com=0.50),5,1.0,Pass
+653567,Cluster 1 (com=0.69),5,0.6,Pass
+653595,Cluster 0 (com=0.50),5,1.0,Pass
+653653,Cluster 0 (com=0.50),5,0.8,Pass
+653659,Insuficiente,2,1.0,Fail
+653773,Cluster 0 (com=0.50),5,1.0,Pass
+653797,Insuficiente,2,0.5,Withdrawn
+653841,Cluster 0 (com=0.50),4,0.75,Pass
+653846,Insuficiente,1,1.0,Withdrawn
+653857,Cluster 0 (com=0.50),4,0.75,Fail
+653988,Insuficiente,1,1.0,Fail
+654045,Cluster 0 (com=0.50),5,0.6,Pass
+654048,Insuficiente,2,1.0,Withdrawn
+654094,Insuficiente,1,1.0,Withdrawn
+654112,Insuficiente,1,1.0,Withdrawn
+654114,Cluster 0 (com=0.50),5,1.0,Pass
+654169,Cluster 0 (com=0.50),5,1.0,Pass
+654217,Cluster 0 (com=0.50),5,0.8,Pass
+654228,Insuficiente,2,1.0,Withdrawn
+654236,Cluster 0 (com=0.50),5,1.0,Pass
+654260,Cluster 0 (com=0.50),5,0.8,Distinction
+654339,Cluster 0 (com=0.50),5,0.8,Pass
+654351,Insuficiente,1,1.0,Fail
+654441,Cluster 0 (com=0.50),5,0.8,Fail
+654563,Insuficiente,2,1.0,Withdrawn
+654565,Cluster 1 (com=0.69),5,0.6,Pass
+654578,Cluster 0 (com=0.50),5,1.0,Pass
+654597,Cluster 0 (com=0.50),5,1.0,Pass
+654684,Cluster 0 (com=0.50),3,0.6666666666666666,Withdrawn
+654692,Cluster 0 (com=0.50),5,0.8,Fail
+654738,Insuficiente,1,1.0,Withdrawn
+654819,Cluster 0 (com=0.50),5,1.0,Distinction
+654824,Cluster 0 (com=0.50),5,1.0,Pass
+654834,Cluster 0 (com=0.50),5,1.0,Distinction
+654852,Cluster 0 (com=0.50),3,0.6666666666666666,Withdrawn
+654867,Cluster 0 (com=0.50),5,1.0,Distinction
+654947,Cluster 1 (com=0.69),4,1.0,Fail
+655028,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+655088,Insuficiente,1,1.0,Withdrawn
+655113,Insuficiente,1,1.0,Withdrawn
+655115,Cluster 0 (com=0.50),5,1.0,Pass
+655124,Cluster 1 (com=0.69),4,0.75,Fail
+655127,Cluster 0 (com=0.50),5,0.8,Distinction
+655353,Cluster 0 (com=0.50),4,1.0,Pass
+655386,Cluster 0 (com=0.50),5,1.0,Distinction
+655412,Cluster 0 (com=0.50),5,0.8,Pass
+655416,Insuficiente,2,1.0,Withdrawn
+655445,Cluster 0 (com=0.50),5,1.0,Pass
+655569,Cluster 0 (com=0.50),5,1.0,Pass
+655629,Insuficiente,1,1.0,Withdrawn
+655796,Cluster 0 (com=0.50),5,0.8,Pass
+655852,Insuficiente,1,1.0,Withdrawn
+655927,Cluster 1 (com=0.69),5,0.6,Pass
+655981,Cluster 0 (com=0.50),5,1.0,Pass
+656029,Insuficiente,1,1.0,Withdrawn
+656065,Cluster 0 (com=0.50),5,0.8,Pass
+656086,Cluster 0 (com=0.50),3,1.0,Withdrawn
+656092,Cluster 0 (com=0.50),5,1.0,Pass
+656107,Insuficiente,1,1.0,Fail
+656131,Cluster 0 (com=0.50),5,1.0,Pass
+656145,Insuficiente,2,0.5,Withdrawn
+656158,Cluster 0 (com=0.50),5,0.8,Pass
+656159,Cluster 0 (com=0.50),5,1.0,Distinction
+656165,Cluster 1 (com=0.69),5,0.8,Pass
+656234,Cluster 0 (com=0.50),5,0.6,Pass
+656323,Cluster 0 (com=0.50),5,1.0,Pass
+656353,Cluster 0 (com=0.50),3,1.0,Pass
+656360,Insuficiente,2,1.0,Withdrawn
+656414,Cluster 0 (com=0.50),5,1.0,Pass
+656436,Cluster 0 (com=0.50),4,1.0,Pass
+656510,Insuficiente,1,1.0,Fail
+656529,Cluster 0 (com=0.50),5,0.6,Pass
+656579,Cluster 0 (com=0.50),5,0.8,Distinction
+656607,Cluster 1 (com=0.69),5,0.6,Pass
+656651,Cluster 0 (com=0.50),5,1.0,Pass
+656693,Insuficiente,1,1.0,Withdrawn
+656734,Cluster 0 (com=0.50),5,1.0,Distinction
+656791,Cluster 0 (com=0.50),5,1.0,Pass
+656800,Insuficiente,2,0.5,Withdrawn
+656882,Cluster 0 (com=0.50),5,1.0,Distinction
+656988,Cluster 0 (com=0.50),4,0.75,Fail
+656996,Cluster 0 (com=0.50),5,0.8,Pass
+657048,Cluster 0 (com=0.50),5,0.6,Pass
+657181,Insuficiente,1,1.0,Withdrawn
+657220,Cluster 0 (com=0.50),5,0.8,Pass
+657330,Cluster 0 (com=0.50),5,1.0,Distinction
+657344,Cluster 0 (com=0.50),5,1.0,Distinction
+674222,Cluster 0 (com=0.50),5,1.0,Pass
+674226,Cluster 0 (com=0.50),5,0.8,Pass
+674236,Cluster 0 (com=0.50),5,0.8,Distinction
+674260,Insuficiente,1,1.0,Fail
+674262,Cluster 0 (com=0.50),5,1.0,Distinction
+674320,Cluster 0 (com=0.50),5,0.8,Pass
+674387,Cluster 0 (com=0.50),5,1.0,Pass
+674406,Cluster 0 (com=0.50),4,1.0,Pass
+674451,Cluster 0 (com=0.50),5,0.8,Pass
+674478,Cluster 1 (com=0.69),3,0.6666666666666666,Fail
+674484,Cluster 0 (com=0.50),5,1.0,Pass
+674497,Cluster 0 (com=0.50),5,1.0,Pass
+674509,Cluster 0 (com=0.50),5,1.0,Pass
+674584,Cluster 0 (com=0.50),5,0.6,Distinction
+674594,Cluster 0 (com=0.50),3,1.0,Fail
+674644,Cluster 0 (com=0.50),5,0.8,Pass
+674657,Cluster 0 (com=0.50),5,1.0,Pass
+674671,Cluster 0 (com=0.50),5,0.8,Pass
+674691,Cluster 0 (com=0.50),5,1.0,Distinction
+674694,Cluster 0 (com=0.50),5,1.0,Pass
+674699,Cluster 0 (com=0.50),5,0.8,Distinction
+674751,Cluster 0 (com=0.50),5,0.8,Distinction
+674831,Cluster 0 (com=0.50),5,1.0,Pass
+674870,Cluster 0 (com=0.50),5,1.0,Pass
+674921,Cluster 0 (com=0.50),5,0.6,Distinction
+675021,Cluster 1 (com=0.69),5,0.6,Distinction
+675054,Cluster 0 (com=0.50),5,0.8,Pass
+675193,Cluster 0 (com=0.50),5,1.0,Pass
+675225,Cluster 0 (com=0.50),5,1.0,Pass
+675233,Cluster 0 (com=0.50),5,1.0,Pass
+675261,Misto,4,0.5,Pass
+675273,Cluster 0 (com=0.50),5,0.6,Fail
+675279,Cluster 0 (com=0.50),5,1.0,Pass
+675315,Cluster 0 (com=0.50),5,0.8,Pass
+675328,Cluster 0 (com=0.50),5,1.0,Pass
+675337,Insuficiente,1,1.0,Withdrawn
+675474,Cluster 0 (com=0.50),5,0.6,Pass
+675486,Insuficiente,1,1.0,Withdrawn
+675514,Insuficiente,1,1.0,Fail
+675566,Cluster 1 (com=0.69),5,0.6,Distinction
+675577,Cluster 0 (com=0.50),3,1.0,Fail
+675636,Cluster 0 (com=0.50),5,1.0,Pass
+675710,Cluster 0 (com=0.50),5,1.0,Distinction
+675843,Insuficiente,1,1.0,Withdrawn
+675947,Insuficiente,1,1.0,Withdrawn
+675989,Cluster 0 (com=0.50),5,1.0,Distinction
+676007,Cluster 0 (com=0.50),4,0.75,Pass
+676040,Insuficiente,2,1.0,Withdrawn
+676064,Cluster 0 (com=0.50),5,0.8,Distinction
+676103,Cluster 0 (com=0.50),5,0.6,Pass
+676139,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+676190,Cluster 0 (com=0.50),5,1.0,Distinction
+676265,Cluster 0 (com=0.50),5,1.0,Pass
+676272,Cluster 1 (com=0.69),4,0.75,Fail
+676303,Cluster 1 (com=0.69),5,0.8,Pass
+676378,Cluster 0 (com=0.50),5,1.0,Distinction
+676444,Cluster 0 (com=0.50),5,1.0,Distinction
+676458,Cluster 0 (com=0.50),4,1.0,Fail
+676459,Cluster 0 (com=0.50),5,1.0,Pass
+676478,Cluster 0 (com=0.50),5,0.8,Distinction
+676492,Cluster 0 (com=0.50),5,1.0,Pass
+676600,Insuficiente,1,1.0,Withdrawn
+676610,Cluster 0 (com=0.50),5,0.8,Distinction
+676626,Cluster 0 (com=0.50),5,1.0,Distinction
+676627,Insuficiente,1,1.0,Withdrawn
+676866,Cluster 0 (com=0.50),5,1.0,Pass
+676882,Cluster 0 (com=0.50),4,1.0,Pass
+677081,Insuficiente,1,1.0,Withdrawn
+677085,Cluster 0 (com=0.50),5,1.0,Pass
+677111,Cluster 0 (com=0.50),5,0.8,Pass
+677138,Cluster 0 (com=0.50),5,1.0,Distinction
+677155,Cluster 0 (com=0.50),5,1.0,Pass
+677167,Cluster 0 (com=0.50),5,0.8,Pass
+677206,Cluster 0 (com=0.50),5,0.8,Pass
+677221,Cluster 0 (com=0.50),5,1.0,Distinction
+677235,Cluster 0 (com=0.50),5,0.6,Fail
+677327,Insuficiente,1,1.0,Withdrawn
+677382,Cluster 0 (com=0.50),5,1.0,Fail
+677400,Cluster 0 (com=0.50),5,1.0,Distinction
+677436,Cluster 0 (com=0.50),5,0.6,Pass
+677456,Cluster 0 (com=0.50),5,1.0,Pass
+677486,Cluster 0 (com=0.50),4,0.75,Withdrawn
+677546,Cluster 0 (com=0.50),5,0.6,Pass
+677582,Misto,4,0.5,Withdrawn
+677608,Insuficiente,1,1.0,Withdrawn
+677655,Cluster 0 (com=0.50),5,1.0,Pass
+677687,Cluster 1 (com=0.69),4,0.75,Fail
+677701,Insuficiente,1,1.0,Withdrawn
+677748,Cluster 0 (com=0.50),5,1.0,Fail
+677767,Cluster 0 (com=0.50),5,0.6,Fail
+677833,Cluster 0 (com=0.50),5,1.0,Pass
+677867,Insuficiente,2,0.5,Withdrawn
+677869,Insuficiente,2,0.5,Fail
+678088,Cluster 0 (com=0.50),5,1.0,Pass
+678203,Cluster 1 (com=0.69),4,1.0,Pass
+678235,Cluster 0 (com=0.50),5,1.0,Pass
+678270,Cluster 0 (com=0.50),5,0.6,Fail
+678381,Cluster 0 (com=0.50),5,0.6,Pass
+678407,Cluster 0 (com=0.50),3,1.0,Withdrawn
+678452,Cluster 1 (com=0.69),5,0.6,Pass
+678528,Cluster 0 (com=0.50),5,0.8,Fail
+678619,Cluster 0 (com=0.50),3,0.6666666666666666,Withdrawn
+678628,Cluster 1 (com=0.69),5,0.6,Pass
+678639,Insuficiente,1,1.0,Withdrawn
+678659,Cluster 1 (com=0.69),5,0.6,Pass
+678819,Cluster 0 (com=0.50),5,1.0,Distinction
+678831,Insuficiente,2,0.5,Withdrawn
+678859,Cluster 0 (com=0.50),5,0.8,Distinction
+678877,Insuficiente,2,1.0,Withdrawn
+678946,Cluster 0 (com=0.50),5,1.0,Pass
+678954,Cluster 0 (com=0.50),5,1.0,Distinction
+679019,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+679036,Cluster 0 (com=0.50),5,1.0,Distinction
+679111,Cluster 0 (com=0.50),3,1.0,Fail
+679189,Cluster 0 (com=0.50),5,1.0,Pass
+679227,Cluster 0 (com=0.50),4,0.75,Pass
+679237,Cluster 1 (com=0.69),5,0.8,Fail
+679251,Misto,4,0.5,Fail
+679262,Cluster 0 (com=0.50),5,0.6,Pass
+679269,Insuficiente,1,1.0,Withdrawn
+679278,Cluster 0 (com=0.50),5,1.0,Pass
+679342,Cluster 0 (com=0.50),3,1.0,Fail
+679384,Cluster 0 (com=0.50),5,1.0,Pass
+679386,Cluster 0 (com=0.50),5,0.8,Pass
+679402,Cluster 0 (com=0.50),5,1.0,Distinction
+679445,Cluster 0 (com=0.50),5,1.0,Pass
+679448,Cluster 0 (com=0.50),5,1.0,Pass
+679498,Cluster 0 (com=0.50),5,0.8,Pass
+679502,Insuficiente,1,1.0,Withdrawn
+679509,Cluster 0 (com=0.50),5,0.6,Pass
+679594,Cluster 0 (com=0.50),5,1.0,Distinction
+679676,Cluster 0 (com=0.50),4,1.0,Withdrawn
+679749,Insuficiente,1,1.0,Withdrawn
+679788,Cluster 0 (com=0.50),5,0.8,Pass
+679790,Cluster 0 (com=0.50),5,0.8,Pass
+679939,Cluster 0 (com=0.50),5,0.6,Pass
+680014,Cluster 0 (com=0.50),5,0.8,Distinction
+680018,Cluster 0 (com=0.50),3,0.6666666666666666,Withdrawn
+680027,Cluster 0 (com=0.50),5,1.0,Distinction
+680080,Cluster 0 (com=0.50),4,1.0,Pass
+680145,Cluster 1 (com=0.69),5,0.8,Pass
+680212,Cluster 1 (com=0.69),4,0.75,Fail
+680222,Insuficiente,1,1.0,Withdrawn
+680231,Insuficiente,2,1.0,Withdrawn
+680255,Insuficiente,1,1.0,Fail
+680266,Cluster 0 (com=0.50),5,1.0,Distinction
+680270,Cluster 0 (com=0.50),5,0.8,Fail
+680273,Insuficiente,2,1.0,Withdrawn
+680322,Cluster 0 (com=0.50),5,0.8,Pass
+680343,Cluster 0 (com=0.50),5,0.6,Distinction
+680348,Cluster 0 (com=0.50),5,1.0,Pass
+680410,Insuficiente,1,1.0,Withdrawn
+680443,Cluster 0 (com=0.50),5,1.0,Distinction
+680464,Cluster 0 (com=0.50),5,1.0,Distinction
+680506,Cluster 1 (com=0.69),5,1.0,Distinction
+680517,Insuficiente,1,1.0,Withdrawn
+680572,Cluster 0 (com=0.50),5,1.0,Pass
+680708,Cluster 0 (com=0.50),5,0.6,Pass
+680713,Cluster 0 (com=0.50),5,1.0,Pass
+680747,Cluster 0 (com=0.50),5,0.8,Pass
+680775,Cluster 0 (com=0.50),5,0.8,Pass
+680810,Cluster 0 (com=0.50),5,0.8,Distinction
+680855,Insuficiente,1,1.0,Fail
+680872,Cluster 0 (com=0.50),4,0.75,Pass
+680912,Cluster 0 (com=0.50),4,1.0,Pass
+680955,Cluster 0 (com=0.50),5,1.0,Pass
+680974,Cluster 0 (com=0.50),5,0.6,Distinction
+681004,Cluster 0 (com=0.50),5,1.0,Distinction
+681073,Insuficiente,1,1.0,Withdrawn
+681152,Insuficiente,2,1.0,Withdrawn
+681235,Cluster 0 (com=0.50),5,0.6,Pass
+681277,Insuficiente,2,0.5,Withdrawn
+681328,Cluster 0 (com=0.50),5,1.0,Distinction
+681335,Insuficiente,1,1.0,Withdrawn
+681341,Cluster 1 (com=0.69),4,0.75,Fail
+681352,Cluster 1 (com=0.69),5,0.6,Pass
+681354,Cluster 1 (com=0.69),5,0.6,Pass
+681452,Cluster 1 (com=0.69),5,0.8,Pass
+681490,Cluster 0 (com=0.50),5,1.0,Distinction
+681608,Cluster 1 (com=0.69),5,1.0,Pass
+681633,Cluster 0 (com=0.50),5,1.0,Pass
+681652,Cluster 0 (com=0.50),5,1.0,Pass
+681655,Cluster 0 (com=0.50),4,0.75,Pass
+681658,Cluster 0 (com=0.50),5,0.6,Pass
+681691,Insuficiente,1,1.0,Withdrawn
+681735,Insuficiente,2,1.0,Withdrawn
+681755,Cluster 0 (com=0.50),5,1.0,Pass
+681763,Cluster 0 (com=0.50),5,1.0,Pass
+681938,Cluster 0 (com=0.50),5,0.6,Distinction
+681973,Cluster 1 (com=0.69),5,0.6,Pass
+682015,Insuficiente,1,1.0,Withdrawn
+682019,Cluster 1 (com=0.69),3,1.0,Withdrawn
+682025,Insuficiente,2,1.0,Withdrawn
+682070,Cluster 0 (com=0.50),5,1.0,Pass
+682276,Cluster 0 (com=0.50),3,1.0,Withdrawn
+682298,Cluster 0 (com=0.50),5,1.0,Pass
+682358,Insuficiente,2,1.0,Withdrawn
+682390,Cluster 1 (com=0.69),5,0.6,Pass
+682391,Insuficiente,2,0.5,Fail
+682436,Cluster 0 (com=0.50),5,0.6,Pass
+682437,Cluster 0 (com=0.50),5,1.0,Pass
+682504,Insuficiente,2,1.0,Withdrawn
+682511,Cluster 0 (com=0.50),5,0.6,Pass
+682539,Cluster 0 (com=0.50),5,1.0,Distinction
+682546,Insuficiente,1,1.0,Withdrawn
+682569,Cluster 0 (com=0.50),5,1.0,Pass
+682578,Insuficiente,1,1.0,Fail
+682588,Cluster 0 (com=0.50),4,0.75,Fail
+682613,Cluster 0 (com=0.50),5,0.6,Pass
+682632,Cluster 0 (com=0.50),5,1.0,Pass
+682671,Insuficiente,1,1.0,Withdrawn
+682695,Cluster 0 (com=0.50),5,1.0,Pass
+682753,Cluster 0 (com=0.50),5,1.0,Pass
+682839,Cluster 0 (com=0.50),5,0.8,Pass
+682863,Insuficiente,2,1.0,Withdrawn
+682894,Cluster 0 (com=0.50),5,1.0,Withdrawn
+682946,Insuficiente,1,1.0,Withdrawn
+682963,Cluster 0 (com=0.50),5,1.0,Pass
+682981,Cluster 0 (com=0.50),5,1.0,Distinction
+682982,Insuficiente,1,1.0,Withdrawn
+682983,Cluster 0 (com=0.50),5,1.0,Pass
+682985,Cluster 1 (com=0.69),4,0.75,Fail
+682990,Cluster 0 (com=0.50),5,0.8,Distinction
+683033,Cluster 0 (com=0.50),5,1.0,Pass
+683094,Cluster 0 (com=0.50),5,1.0,Fail
+683177,Insuficiente,2,0.5,Withdrawn
+683178,Cluster 0 (com=0.50),5,1.0,Pass
+683243,Cluster 0 (com=0.50),5,0.6,Fail
+683305,Cluster 0 (com=0.50),5,0.6,Pass
+683323,Insuficiente,1,1.0,Fail
+683346,Cluster 0 (com=0.50),5,1.0,Distinction
+683347,Insuficiente,1,1.0,Withdrawn
+683352,Cluster 0 (com=0.50),5,0.6,Pass
+683353,Cluster 0 (com=0.50),5,0.8,Pass
+683375,Cluster 0 (com=0.50),5,1.0,Pass
+683403,Cluster 0 (com=0.50),5,1.0,Distinction
+683446,Insuficiente,2,0.5,Fail
+683467,Cluster 1 (com=0.69),5,1.0,Pass
+683508,Insuficiente,2,0.5,Fail
+683530,Cluster 0 (com=0.50),5,0.8,Distinction
+683550,Cluster 1 (com=0.69),5,0.6,Pass
+683555,Insuficiente,2,0.5,Withdrawn
+683576,Insuficiente,1,1.0,Withdrawn
+683604,Cluster 0 (com=0.50),5,1.0,Pass
+683624,Cluster 0 (com=0.50),5,1.0,Distinction
+683699,Insuficiente,2,1.0,Withdrawn
+683745,Insuficiente,2,1.0,Fail
+683764,Cluster 0 (com=0.50),3,1.0,Fail
+683772,Insuficiente,2,1.0,Withdrawn
+683820,Cluster 0 (com=0.50),5,1.0,Pass
+683832,Insuficiente,2,1.0,Withdrawn
+683902,Cluster 0 (com=0.50),5,0.6,Pass
+683934,Cluster 0 (com=0.50),5,0.8,Pass
+684013,Cluster 0 (com=0.50),5,0.8,Distinction
+684040,Insuficiente,2,1.0,Withdrawn
+684183,Cluster 0 (com=0.50),5,1.0,Pass
+684311,Cluster 0 (com=0.50),5,1.0,Pass
+684383,Cluster 0 (com=0.50),5,0.6,Pass
+684386,Cluster 0 (com=0.50),5,1.0,Pass
+684526,Cluster 0 (com=0.50),4,0.75,Withdrawn
+684592,Cluster 1 (com=0.69),5,0.6,Pass
+684594,Insuficiente,1,1.0,Withdrawn
+684671,Cluster 1 (com=0.69),5,0.6,Pass
+684675,Cluster 1 (com=0.69),5,0.6,Pass
+684882,Cluster 0 (com=0.50),5,1.0,Pass
+684981,Cluster 0 (com=0.50),5,1.0,Withdrawn
+685004,Insuficiente,2,0.5,Fail
+685100,Insuficiente,1,1.0,Withdrawn
+685105,Cluster 1 (com=0.69),4,0.75,Fail
+685128,Cluster 0 (com=0.50),5,0.6,Pass
+685140,Cluster 0 (com=0.50),5,0.8,Pass
+685155,Cluster 0 (com=0.50),5,1.0,Pass
+685192,Insuficiente,1,1.0,Withdrawn
+685212,Cluster 0 (com=0.50),5,1.0,Distinction
+685276,Cluster 0 (com=0.50),5,1.0,Distinction
+685283,Misto,4,0.5,Fail
+685330,Cluster 0 (com=0.50),4,1.0,Withdrawn
+685339,Cluster 0 (com=0.50),5,1.0,Pass
+685367,Insuficiente,2,1.0,Fail
+685373,Cluster 0 (com=0.50),5,1.0,Distinction
+685378,Misto,4,0.5,Pass
+685410,Cluster 0 (com=0.50),5,1.0,Pass
+685619,Cluster 1 (com=0.69),5,0.8,Pass
+685657,Insuficiente,2,1.0,Withdrawn
+685705,Cluster 0 (com=0.50),5,0.8,Pass
+685708,Cluster 0 (com=0.50),5,1.0,Pass
+685772,Cluster 0 (com=0.50),5,1.0,Pass
+685831,Cluster 0 (com=0.50),5,0.8,Pass
+685860,Insuficiente,2,1.0,Withdrawn
+685928,Insuficiente,1,1.0,Fail
+685998,Insuficiente,1,1.0,Withdrawn
+686065,Cluster 0 (com=0.50),5,1.0,Distinction
+686164,Insuficiente,1,1.0,Fail
+686314,Cluster 0 (com=0.50),4,0.75,Pass
+686317,Cluster 0 (com=0.50),5,0.6,Pass
+686344,Cluster 0 (com=0.50),5,1.0,Pass
+686348,Cluster 0 (com=0.50),5,1.0,Pass
+686448,Insuficiente,1,1.0,Withdrawn
+686498,Cluster 0 (com=0.50),5,1.0,Pass
+686522,Cluster 0 (com=0.50),5,1.0,Pass
+686558,Cluster 1 (com=0.69),5,1.0,Pass
+686700,Cluster 1 (com=0.69),5,0.8,Pass
+686705,Cluster 0 (com=0.50),4,1.0,Pass
+686786,Cluster 0 (com=0.50),3,1.0,Fail
+686946,Cluster 1 (com=0.69),5,0.8,Fail
+687007,Insuficiente,1,1.0,Fail
+687033,Cluster 1 (com=0.69),3,1.0,Fail
+687073,Cluster 0 (com=0.50),3,1.0,Withdrawn
+687112,Cluster 1 (com=0.69),5,0.8,Pass
+687115,Cluster 1 (com=0.69),5,1.0,Pass
+687288,Insuficiente,2,1.0,Withdrawn
+687304,Insuficiente,1,1.0,Fail
+687331,Insuficiente,1,1.0,Fail
+687341,Insuficiente,2,1.0,Withdrawn
+687345,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+687351,Cluster 1 (com=0.69),5,0.8,Pass
+687410,Cluster 0 (com=0.50),5,0.8,Pass
+687434,Cluster 0 (com=0.50),5,1.0,Distinction
+687468,Cluster 0 (com=0.50),5,1.0,Distinction
+687485,Cluster 0 (com=0.50),5,0.8,Pass
+687503,Cluster 0 (com=0.50),5,1.0,Pass
+687510,Insuficiente,2,1.0,Withdrawn
+687511,Insuficiente,2,0.5,Withdrawn
+687525,Insuficiente,2,1.0,Fail
+687686,Cluster 0 (com=0.50),4,0.75,Fail
+687752,Insuficiente,2,0.5,Withdrawn
+687846,Cluster 1 (com=0.69),4,0.75,Pass
+687910,Cluster 0 (com=0.50),5,1.0,Pass
+687930,Cluster 0 (com=0.50),5,0.8,Pass
+687931,Cluster 0 (com=0.50),5,1.0,Pass
+687988,Cluster 0 (com=0.50),5,1.0,Pass
+688008,Cluster 0 (com=0.50),5,1.0,Pass
+688071,Insuficiente,1,1.0,Fail
+688127,Cluster 0 (com=0.50),5,0.6,Distinction
+688136,Cluster 0 (com=0.50),5,1.0,Fail
+688159,Insuficiente,2,1.0,Withdrawn
+688192,Cluster 0 (com=0.50),5,1.0,Fail
+688225,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+688250,Insuficiente,2,0.5,Fail
+688265,Cluster 0 (com=0.50),5,0.6,Fail
+688337,Cluster 0 (com=0.50),5,0.8,Pass
+688453,Insuficiente,1,1.0,Fail
+688470,Cluster 1 (com=0.69),4,0.75,Fail
+688543,Cluster 0 (com=0.50),5,1.0,Pass
+688664,Insuficiente,1,1.0,Withdrawn
+688667,Cluster 0 (com=0.50),5,1.0,Pass
+688685,Cluster 0 (com=0.50),5,1.0,Pass
+688727,Cluster 0 (com=0.50),5,1.0,Distinction
+688881,Insuficiente,2,1.0,Withdrawn
+688891,Cluster 0 (com=0.50),5,0.6,Fail
+688895,Cluster 0 (com=0.50),5,1.0,Distinction
+688904,Cluster 0 (com=0.50),3,1.0,Withdrawn
+688976,Cluster 1 (com=0.69),3,0.6666666666666666,Fail
+689005,Cluster 0 (com=0.50),5,0.8,Pass
+689052,Insuficiente,2,0.5,Fail
+689056,Misto,4,0.5,Pass
+689225,Insuficiente,1,1.0,Withdrawn
+689260,Cluster 0 (com=0.50),5,0.8,Pass
+689280,Cluster 0 (com=0.50),5,1.0,Distinction
+689347,Cluster 0 (com=0.50),5,1.0,Pass
+689444,Cluster 0 (com=0.50),4,0.75,Fail
+689498,Insuficiente,1,1.0,Withdrawn
+689626,Insuficiente,1,1.0,Fail
+689796,Cluster 0 (com=0.50),5,1.0,Pass
+689827,Insuficiente,1,1.0,Withdrawn
+689832,Cluster 0 (com=0.50),5,1.0,Pass
+689855,Cluster 0 (com=0.50),5,1.0,Distinction
+689924,Cluster 0 (com=0.50),5,0.8,Pass
+690075,Cluster 1 (com=0.69),5,0.6,Pass
+690198,Cluster 0 (com=0.50),5,0.8,Distinction
+690296,Insuficiente,2,1.0,Withdrawn
+690382,Misto,4,0.5,Pass
+690585,Insuficiente,1,1.0,Fail
+690628,Cluster 0 (com=0.50),5,0.8,Pass
+690635,Cluster 0 (com=0.50),5,0.6,Distinction
+690746,Cluster 0 (com=0.50),5,1.0,Distinction
+690832,Cluster 0 (com=0.50),4,1.0,Fail
+690872,Cluster 1 (com=0.69),5,0.6,Pass
+690962,Cluster 0 (com=0.50),3,0.6666666666666666,Withdrawn
+691269,Cluster 0 (com=0.50),5,0.8,Pass
+691280,Cluster 1 (com=0.69),5,0.6,Pass
+691326,Cluster 0 (com=0.50),5,1.0,Fail
+691375,Cluster 0 (com=0.50),3,1.0,Fail
+691465,Cluster 0 (com=0.50),5,0.8,Fail
+691699,Cluster 0 (com=0.50),5,0.8,Pass
+691722,Cluster 0 (com=0.50),5,1.0,Distinction
+691805,Insuficiente,1,1.0,Withdrawn
+691873,Cluster 0 (com=0.50),5,0.8,Pass
+691932,Cluster 0 (com=0.50),5,1.0,Pass
+692010,Cluster 0 (com=0.50),5,1.0,Pass
+692097,Cluster 0 (com=0.50),5,1.0,Pass
+692220,Cluster 0 (com=0.50),5,0.8,Pass
+692297,Insuficiente,2,1.0,Fail
+692301,Cluster 1 (com=0.69),5,1.0,Pass
+692334,Cluster 0 (com=0.50),5,0.8,Pass
+692454,Cluster 0 (com=0.50),5,1.0,Pass
+692612,Cluster 0 (com=0.50),5,1.0,Pass
+692632,Insuficiente,2,1.0,Fail
+692893,Cluster 1 (com=0.69),5,0.6,Pass
+692946,Cluster 0 (com=0.50),3,1.0,Fail
+692962,Cluster 0 (com=0.50),5,1.0,Pass
+692968,Cluster 0 (com=0.50),5,0.8,Pass
+693160,Cluster 0 (com=0.50),4,1.0,Pass
+693162,Cluster 0 (com=0.50),5,1.0,Distinction
+693197,Cluster 0 (com=0.50),5,0.6,Pass
+693236,Cluster 0 (com=0.50),5,1.0,Pass
+693345,Cluster 0 (com=0.50),5,0.6,Pass
+693373,Cluster 0 (com=0.50),5,1.0,Distinction
+693497,Cluster 0 (com=0.50),5,1.0,Pass
+693519,Cluster 1 (com=0.69),5,0.8,Pass
+693573,Insuficiente,2,0.5,Withdrawn
+693628,Cluster 0 (com=0.50),5,1.0,Pass
+693764,Misto,4,0.5,Pass
+693806,Cluster 0 (com=0.50),5,1.0,Distinction
+693812,Insuficiente,1,1.0,Withdrawn
+693873,Cluster 1 (com=0.69),5,0.6,Fail
+693903,Cluster 0 (com=0.50),5,1.0,Distinction
+693906,Insuficiente,2,1.0,Withdrawn
+693907,Cluster 0 (com=0.50),5,0.8,Pass
+694128,Cluster 0 (com=0.50),4,1.0,Pass
+694144,Cluster 0 (com=0.50),5,0.8,Distinction
+694221,Cluster 0 (com=0.50),5,1.0,Fail
+694284,Insuficiente,2,0.5,Withdrawn
+694376,Insuficiente,1,1.0,Fail
+694428,Misto,4,0.5,Pass
+694456,Misto,4,0.5,Pass
+694622,Cluster 0 (com=0.50),5,1.0,Pass
+694716,Cluster 1 (com=0.69),5,0.6,Pass
+694827,Cluster 1 (com=0.69),5,0.6,Pass
+694836,Cluster 0 (com=0.50),5,1.0,Pass
+694848,Cluster 0 (com=0.50),5,0.8,Distinction
+695090,Cluster 1 (com=0.69),5,0.6,Pass
+695169,Cluster 1 (com=0.69),5,0.6,Pass
+695220,Insuficiente,1,1.0,Withdrawn
+695250,Insuficiente,2,1.0,Withdrawn
+695251,Insuficiente,1,1.0,Withdrawn
+695369,Insuficiente,1,1.0,Withdrawn
+695471,Cluster 0 (com=0.50),5,0.6,Pass
+695485,Cluster 0 (com=0.50),5,0.6,Pass
+695550,Insuficiente,2,1.0,Fail
+695637,Cluster 0 (com=0.50),5,1.0,Distinction
+695676,Insuficiente,1,1.0,Withdrawn
+695700,Insuficiente,2,0.5,Fail
+695729,Cluster 0 (com=0.50),5,1.0,Pass
+695748,Insuficiente,2,1.0,Withdrawn
+695803,Cluster 0 (com=0.50),5,1.0,Pass
+695825,Cluster 0 (com=0.50),4,1.0,Withdrawn
+695869,Cluster 0 (com=0.50),5,1.0,Pass
+695879,Insuficiente,1,1.0,Withdrawn
+695926,Insuficiente,2,1.0,Fail
+695964,Insuficiente,1,1.0,Withdrawn
+696039,Cluster 0 (com=0.50),5,0.6,Fail
+696043,Cluster 0 (com=0.50),5,0.6,Distinction
+696071,Insuficiente,2,1.0,Withdrawn
+696082,Cluster 0 (com=0.50),5,0.6,Pass
+696188,Cluster 1 (com=0.69),5,0.8,Pass
+696275,Cluster 0 (com=0.50),5,1.0,Distinction
+696318,Cluster 0 (com=0.50),5,1.0,Distinction
+696329,Cluster 0 (com=0.50),5,1.0,Distinction
+696347,Cluster 0 (com=0.50),5,1.0,Pass
+696364,Cluster 0 (com=0.50),5,0.8,Pass
+696410,Insuficiente,1,1.0,Withdrawn
+696456,Insuficiente,2,1.0,Fail
+696583,Cluster 1 (com=0.69),4,0.75,Fail
+696615,Insuficiente,2,0.5,Fail
+696653,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+696659,Cluster 0 (com=0.50),5,0.8,Pass
+696662,Cluster 0 (com=0.50),5,1.0,Distinction
+696666,Cluster 1 (com=0.69),5,0.8,Fail
+696671,Cluster 0 (com=0.50),5,0.8,Pass
+696672,Cluster 0 (com=0.50),3,0.6666666666666666,Pass
+696674,Cluster 0 (com=0.50),4,1.0,Pass
+696678,Cluster 0 (com=0.50),5,0.8,Pass
+696729,Cluster 0 (com=0.50),5,1.0,Pass
+697027,Cluster 0 (com=0.50),3,1.0,Fail
+697042,Insuficiente,2,1.0,Withdrawn
+697114,Cluster 1 (com=0.69),4,1.0,Pass
+697160,Insuficiente,1,1.0,Fail
+697192,Insuficiente,1,1.0,Withdrawn
+697255,Cluster 0 (com=0.50),5,0.8,Pass
+697299,Insuficiente,1,1.0,Withdrawn
+697438,Cluster 0 (com=0.50),4,1.0,Withdrawn
+697478,Cluster 0 (com=0.50),4,0.75,Pass
+697665,Insuficiente,1,1.0,Withdrawn
+697878,Cluster 0 (com=0.50),5,0.6,Pass
+697998,Cluster 0 (com=0.50),5,0.6,Pass
+698015,Cluster 0 (com=0.50),4,0.75,Pass
+698020,Insuficiente,1,1.0,Withdrawn
+698112,Insuficiente,1,1.0,Withdrawn
+698193,Insuficiente,1,1.0,Fail
+698278,Insuficiente,1,1.0,Withdrawn
+698384,Cluster 0 (com=0.50),5,1.0,Pass
+698407,Insuficiente,1,1.0,Fail
+698485,Cluster 0 (com=0.50),5,0.8,Pass
+698656,Cluster 0 (com=0.50),5,1.0,Pass
+698762,Insuficiente,1,1.0,Withdrawn
+699126,Cluster 1 (com=0.69),4,0.75,Pass
+699127,Cluster 1 (com=0.69),5,0.8,Fail
+699128,Cluster 0 (com=0.50),5,0.8,Pass
+836614,Insuficiente,2,1.0,Fail
+884652,Insuficiente,1,1.0,Withdrawn
+895524,Cluster 0 (com=0.50),5,1.0,Distinction
+1021350,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+1042726,Cluster 0 (com=0.50),5,0.6,Fail
+1318759,Cluster 0 (com=0.50),5,0.8,Pass
+1348205,Cluster 0 (com=0.50),5,1.0,Distinction
+1391717,Cluster 0 (com=0.50),5,0.6,Pass
+1409532,Cluster 0 (com=0.50),4,1.0,Fail
+1413902,Cluster 0 (com=0.50),5,0.6,Fail
+1424608,Insuficiente,1,1.0,Withdrawn
+1448966,Cluster 1 (com=0.69),5,0.8,Pass
+1450604,Cluster 0 (com=0.50),5,0.8,Pass
+1473878,Cluster 0 (com=0.50),5,1.0,Pass
+1477284,Insuficiente,2,1.0,Withdrawn
+1501577,Cluster 0 (com=0.50),5,1.0,Distinction
+1514245,Insuficiente,2,1.0,Withdrawn
+1532711,Cluster 1 (com=0.69),3,0.6666666666666666,Withdrawn
+1585671,Cluster 0 (com=0.50),5,1.0,Pass
+1588621,Insuficiente,1,1.0,Withdrawn
+1603549,Cluster 1 (com=0.69),5,0.6,Pass
+1631797,Misto,4,0.5,Pass
+1639699,Cluster 0 (com=0.50),5,0.8,Pass
+1640680,Cluster 0 (com=0.50),4,1.0,Pass
+1658963,Cluster 0 (com=0.50),5,0.6,Pass
+1677677,Cluster 0 (com=0.50),4,1.0,Pass
+1683192,Insuficiente,1,1.0,Withdrawn
+1722493,Cluster 0 (com=0.50),5,1.0,Fail
+1733664,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+1752994,Cluster 0 (com=0.50),4,1.0,Pass
+1755594,Cluster 0 (com=0.50),5,1.0,Distinction
+1765045,Insuficiente,1,1.0,Withdrawn
+1771775,Misto,4,0.5,Pass
+1796402,Cluster 0 (com=0.50),4,0.75,Pass
+1810759,Cluster 0 (com=0.50),5,1.0,Pass
+1816458,Cluster 0 (com=0.50),5,1.0,Pass
+1817710,Cluster 0 (com=0.50),5,0.6,Distinction
+1818385,Cluster 0 (com=0.50),4,1.0,Pass
+1836241,Cluster 0 (com=0.50),5,1.0,Pass
+1837138,Cluster 0 (com=0.50),5,1.0,Distinction
+1856869,Cluster 0 (com=0.50),4,0.75,Fail
+1866233,Insuficiente,1,1.0,Fail
+1871598,Cluster 0 (com=0.50),5,1.0,Distinction
+1871684,Cluster 0 (com=0.50),5,1.0,Pass
+1877902,Cluster 0 (com=0.50),5,0.8,Pass
+1879321,Cluster 0 (com=0.50),5,1.0,Distinction
+1881231,Cluster 0 (com=0.50),5,0.8,Pass
+1887108,Cluster 0 (com=0.50),5,1.0,Pass
+1889752,Cluster 0 (com=0.50),5,0.8,Pass
+1944167,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+1948159,Cluster 0 (com=0.50),5,0.8,Distinction
+1962049,Cluster 0 (com=0.50),5,1.0,Pass
+1962062,Cluster 0 (com=0.50),4,0.75,Fail
+1972092,Cluster 0 (com=0.50),5,1.0,Pass
+1995177,Cluster 0 (com=0.50),5,1.0,Distinction
+1998834,Cluster 0 (com=0.50),4,0.75,Pass
+2017487,Cluster 0 (com=0.50),5,1.0,Distinction
+2020628,Cluster 0 (com=0.50),5,1.0,Pass
+2026075,Cluster 0 (com=0.50),4,0.75,Withdrawn
+2028523,Insuficiente,1,1.0,Withdrawn
+2029571,Cluster 0 (com=0.50),4,0.75,Withdrawn
+2035700,Cluster 0 (com=0.50),5,1.0,Pass
+2036893,Insuficiente,1,1.0,Withdrawn
+2047575,Cluster 0 (com=0.50),5,1.0,Distinction
+2065972,Cluster 0 (com=0.50),5,1.0,Pass
+2067799,Cluster 1 (com=0.69),4,0.75,Fail
+2081123,Cluster 0 (com=0.50),5,1.0,Pass
+2096251,Cluster 0 (com=0.50),5,1.0,Pass
+2103552,Cluster 0 (com=0.50),4,1.0,Withdrawn
+2104819,Insuficiente,2,0.5,Withdrawn
+2106955,Cluster 0 (com=0.50),5,1.0,Distinction
+2107747,Insuficiente,2,1.0,Withdrawn
+2128283,Cluster 0 (com=0.50),4,1.0,Pass
+2138970,Cluster 0 (com=0.50),5,0.6,Pass
+2140300,Cluster 0 (com=0.50),5,1.0,Pass
+2143312,Cluster 0 (com=0.50),5,1.0,Distinction
+2143440,Cluster 0 (com=0.50),5,1.0,Pass
+2154361,Cluster 0 (com=0.50),5,0.6,Pass
+2160316,Cluster 0 (com=0.50),5,1.0,Distinction
+2161710,Insuficiente,2,1.0,Fail
+2178837,Cluster 0 (com=0.50),4,1.0,Pass
+2180090,Cluster 0 (com=0.50),5,1.0,Distinction
+2185729,Cluster 0 (com=0.50),5,1.0,Pass
+2195853,Insuficiente,1,1.0,Fail
+2197766,Cluster 0 (com=0.50),5,0.8,Distinction
+2198970,Insuficiente,2,0.5,Withdrawn
+2223401,Insuficiente,1,1.0,Withdrawn
+2254637,Cluster 0 (com=0.50),5,0.8,Pass
+2256134,Insuficiente,2,1.0,Withdrawn
+2272023,Insuficiente,2,0.5,Withdrawn
+2274542,Cluster 0 (com=0.50),5,1.0,Pass
+2278101,Cluster 1 (com=0.69),5,0.8,Pass
+2282620,Insuficiente,2,0.5,Fail
+2283708,Insuficiente,2,1.0,Withdrawn
+2293511,Cluster 0 (com=0.50),5,1.0,Distinction
+2298106,Cluster 1 (com=0.69),5,0.8,Distinction
+2298895,Cluster 0 (com=0.50),5,1.0,Distinction
+2301830,Cluster 0 (com=0.50),5,1.0,Pass
+2306410,Cluster 0 (com=0.50),5,1.0,Pass
+2316717,Cluster 0 (com=0.50),3,0.6666666666666666,Withdrawn
+2332934,Misto,4,0.5,Fail
+2339267,Cluster 1 (com=0.69),4,1.0,Pass
+2341420,Cluster 0 (com=0.50),5,0.6,Pass
+2343785,Cluster 0 (com=0.50),5,1.0,Pass
+2351969,Cluster 1 (com=0.69),5,0.6,Pass
+2360559,Cluster 0 (com=0.50),5,1.0,Pass
+2366656,Cluster 0 (com=0.50),5,0.8,Distinction
+2378208,Cluster 0 (com=0.50),5,0.8,Pass
+2386732,Cluster 0 (com=0.50),5,1.0,Distinction
+2395016,Insuficiente,1,1.0,Withdrawn
+2399758,Cluster 0 (com=0.50),5,0.8,Pass
+2403701,Cluster 0 (com=0.50),5,1.0,Pass
+2417433,Insuficiente,2,0.5,Fail
+2417975,Cluster 0 (com=0.50),4,1.0,Pass
+2424257,Cluster 0 (com=0.50),5,1.0,Fail
+2427845,Cluster 0 (com=0.50),5,1.0,Pass
+2438784,Cluster 0 (com=0.50),5,0.8,Pass
+2449490,Insuficiente,1,1.0,Withdrawn
+2457440,Cluster 0 (com=0.50),5,1.0,Pass
+2459292,Misto,4,0.5,Pass
+2470326,Insuficiente,2,1.0,Fail
+2480886,Cluster 0 (com=0.50),4,1.0,Fail
+2482710,Cluster 1 (com=0.69),5,0.6,Pass
+2486930,Cluster 1 (com=0.69),5,0.8,Pass
+2499307,Cluster 0 (com=0.50),5,0.8,Pass
+2504129,Insuficiente,2,0.5,Fail
+2505058,Insuficiente,1,1.0,Fail
+2519138,Cluster 0 (com=0.50),5,1.0,Pass
+2529052,Insuficiente,2,0.5,Fail
+2529419,Cluster 0 (com=0.50),5,0.8,Pass
+2530976,Cluster 0 (com=0.50),4,1.0,Pass
+2537777,Cluster 0 (com=0.50),5,0.8,Fail
+2540871,Cluster 0 (com=0.50),4,1.0,Fail
+2542209,Cluster 0 (com=0.50),5,1.0,Fail
+2544643,Cluster 0 (com=0.50),5,1.0,Distinction
+2544766,Cluster 1 (com=0.69),5,0.6,Pass
+2546315,Cluster 0 (com=0.50),5,0.8,Distinction
+2550534,Cluster 0 (com=0.50),3,0.6666666666666666,Withdrawn
+2557008,Cluster 0 (com=0.50),5,0.6,Distinction
+2558365,Cluster 0 (com=0.50),3,0.6666666666666666,Fail
+2559144,Misto,4,0.5,Pass
+2563095,Cluster 0 (com=0.50),4,0.75,Pass
+2579891,Cluster 0 (com=0.50),5,0.8,Pass
+2584244,Cluster 1 (com=0.69),5,0.6,Pass
+2597117,Cluster 0 (com=0.50),5,1.0,Distinction
+2599162,Insuficiente,1,1.0,Withdrawn
+2599883,Cluster 0 (com=0.50),5,0.8,Pass
+2602542,Cluster 0 (com=0.50),5,0.6,Distinction
+2603027,Cluster 0 (com=0.50),5,1.0,Pass
+2612102,Cluster 0 (com=0.50),5,0.8,Distinction
+2612728,Insuficiente,1,1.0,Withdrawn
+2624028,Cluster 0 (com=0.50),5,1.0,Pass
+2630284,Insuficiente,1,1.0,Withdrawn
+2641156,Cluster 1 (com=0.69),5,0.6,Pass
+2642532,Cluster 0 (com=0.50),5,0.6,Pass
+2643472,Cluster 1 (com=0.69),4,0.75,Pass
+2643829,Cluster 0 (com=0.50),4,0.75,Fail
+2649948,Cluster 0 (com=0.50),5,0.8,Fail
+2657913,Cluster 0 (com=0.50),5,0.6,Pass
+2658856,Cluster 0 (com=0.50),5,1.0,Pass
+2667478,Cluster 0 (com=0.50),4,1.0,Fail
+2678580,Insuficiente,2,1.0,Withdrawn
+2681198,Cluster 0 (com=0.50),5,1.0,Pass
+2682682,Cluster 0 (com=0.50),5,0.8,Distinction
+2683857,Cluster 0 (com=0.50),5,0.8,Pass
+2684048,Insuficiente,1,1.0,Withdrawn
+2686035,Cluster 0 (com=0.50),5,0.8,Withdrawn
+2693932,Cluster 0 (com=0.50),4,0.75,Pass
+2694139,Cluster 1 (com=0.69),3,0.6666666666666666,Withdrawn
+2697921,Cluster 0 (com=0.50),5,0.6,Pass

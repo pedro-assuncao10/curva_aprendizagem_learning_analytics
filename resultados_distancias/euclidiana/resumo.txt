@@ -1,0 +1,20 @@
+K-MEDOIDS Euclidiana (4 bins)
+
+Melhor k pela silhueta: 2 (sil=0.3968)
+ k       custo  silhueta_media
+ 2 1446.816800        0.396829
+ 3 1305.005534        0.229549
+ 4 1204.841223        0.240852
+ 5 1138.431883        0.217716
+ 6 1083.282950        0.220172
+ 7 1042.214309        0.210035
+ 8  998.530239        0.204328
+
+k=3: grupos=[np.int64(3040), np.int64(2633), np.int64(1445)], sil=0.2295
+Curvas médias (k=3):
+  Equilibrado: [0.172, 0.224, 0.283, 0.321]
+  Tardio: [0.151, 0.110, 0.098, 0.641]
+  Adiantado: [0.342, 0.260, 0.161, 0.237]
+
+Divisivo: melhor sub-k=2, sil global=0.2258, ARI vs k=3=0.7415
+ARI k=3 vs k-means euclidiano (baseline): 0.5923

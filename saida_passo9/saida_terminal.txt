@@ -1,0 +1,234 @@
+======================================================================
+PASSO 9 — H3 sem nota (4 arquiteturas + GBoost)
+======================================================================
+
+Alunos: 21,318  | aprovados: 72.1%
+
+### PARTE 1 — arquiteturas de rede (conjunto V+F) ###
+  >> treinando rasa(16)             [EARLY_VF] ...
+       fold 1/5: AUC=0.736 F1=0.621
+       fold 2/5: AUC=0.740 F1=0.642
+       fold 3/5: AUC=0.748 F1=0.660
+       fold 4/5: AUC=0.739 F1=0.632
+       fold 5/5: AUC=0.743 F1=0.640
+     [salvo] modelo_EARLY_VF_rasa16.joblib
+     => média AUC=0.741 F1=0.639  (9s)
+
+  >> treinando media(32,16)         [EARLY_VF] ...
+       fold 1/5: AUC=0.737 F1=0.627
+       fold 2/5: AUC=0.737 F1=0.633
+       fold 3/5: AUC=0.753 F1=0.657
+       fold 4/5: AUC=0.740 F1=0.610
+       fold 5/5: AUC=0.741 F1=0.635
+     [salvo] modelo_EARLY_VF_media3216.joblib
+     => média AUC=0.741 F1=0.632  (10s)
+
+  >> treinando profunda(64,32,16)   [EARLY_VF] ...
+       fold 1/5: AUC=0.731 F1=0.627
+       fold 2/5: AUC=0.737 F1=0.632
+       fold 3/5: AUC=0.752 F1=0.659
+       fold 4/5: AUC=0.739 F1=0.621
+       fold 5/5: AUC=0.745 F1=0.640
+     [salvo] modelo_EARLY_VF_profunda643216.joblib
+     => média AUC=0.741 F1=0.636  (18s)
+
+  >> treinando larga(128,64)        [EARLY_VF] ...
+       fold 1/5: AUC=0.737 F1=0.613
+       fold 2/5: AUC=0.741 F1=0.616
+       fold 3/5: AUC=0.751 F1=0.632
+       fold 4/5: AUC=0.739 F1=0.616
+       fold 5/5: AUC=0.744 F1=0.643
+     [salvo] modelo_EARLY_VF_larga12864.joblib
+     => média AUC=0.742 F1=0.624  (22s)
+
+  >> treinando GBoost               [EARLY_VF] ...
+       fold 1/5: AUC=0.733 F1=0.624
+       fold 2/5: AUC=0.739 F1=0.635
+       fold 3/5: AUC=0.752 F1=0.648
+       fold 4/5: AUC=0.739 F1=0.625
+       fold 5/5: AUC=0.743 F1=0.633
+     [salvo] modelo_EARLY_VF_GBoost.joblib
+     => média AUC=0.741 F1=0.633  (4s)
+
+  >> treinando rasa(16)             [FULL_VF] ...
+       fold 1/5: AUC=0.888 F1=0.843
+       fold 2/5: AUC=0.896 F1=0.846
+       fold 3/5: AUC=0.893 F1=0.855
+       fold 4/5: AUC=0.884 F1=0.832
+       fold 5/5: AUC=0.892 F1=0.840
+     [salvo] modelo_FULL_VF_rasa16.joblib
+     => média AUC=0.890 F1=0.843  (6s)
+
+  >> treinando media(32,16)         [FULL_VF] ...
+       fold 1/5: AUC=0.895 F1=0.846
+       fold 2/5: AUC=0.898 F1=0.848
+       fold 3/5: AUC=0.896 F1=0.856
+       fold 4/5: AUC=0.889 F1=0.834
+       fold 5/5: AUC=0.892 F1=0.840
+     [salvo] modelo_FULL_VF_media3216.joblib
+     => média AUC=0.894 F1=0.845  (9s)
+
+  >> treinando profunda(64,32,16)   [FULL_VF] ...
+       fold 1/5: AUC=0.895 F1=0.846
+       fold 2/5: AUC=0.899 F1=0.852
+       fold 3/5: AUC=0.898 F1=0.856
+       fold 4/5: AUC=0.890 F1=0.835
+       fold 5/5: AUC=0.890 F1=0.841
+     [salvo] modelo_FULL_VF_profunda643216.joblib
+     => média AUC=0.894 F1=0.846  (15s)
+
+  >> treinando larga(128,64)        [FULL_VF] ...
+       fold 1/5: AUC=0.892 F1=0.845
+       fold 2/5: AUC=0.900 F1=0.849
+       fold 3/5: AUC=0.899 F1=0.858
+       fold 4/5: AUC=0.889 F1=0.834
+       fold 5/5: AUC=0.892 F1=0.841
+     [salvo] modelo_FULL_VF_larga12864.joblib
+     => média AUC=0.894 F1=0.845  (19s)
+
+  >> treinando GBoost               [FULL_VF] ...
+       fold 1/5: AUC=0.890 F1=0.846
+       fold 2/5: AUC=0.896 F1=0.845
+       fold 3/5: AUC=0.898 F1=0.855
+       fold 4/5: AUC=0.886 F1=0.834
+       fold 5/5: AUC=0.888 F1=0.837
+     [salvo] modelo_FULL_VF_GBoost.joblib
+     => média AUC=0.892 F1=0.843  (2s)
+
+
+Melhor arquitetura MLP (AUC média): larga(128,64)
+
+### PARTE 2 — V vs F vs V+F (a H3) ###
+  >> treinando larga(128,64)        [EARLY_V (volume)] ...
+       fold 1/5: AUC=0.678 F1=0.419
+       fold 2/5: AUC=0.676 F1=0.419
+       fold 3/5: AUC=0.681 F1=0.419
+       fold 4/5: AUC=0.678 F1=0.419
+       fold 5/5: AUC=0.675 F1=0.419
+     [salvo] modelo_EARLY_Vvolume_larga12864.joblib
+     => média AUC=0.678 F1=0.419  (12s)
+
+  >> treinando GBoost               [EARLY_V (volume)] ...
+       fold 1/5: AUC=0.672 F1=0.514
+       fold 2/5: AUC=0.674 F1=0.509
+       fold 3/5: AUC=0.680 F1=0.502
+       fold 4/5: AUC=0.674 F1=0.488
+       fold 5/5: AUC=0.672 F1=0.478
+     [salvo] modelo_EARLY_Vvolume_GBoost.joblib
+     => média AUC=0.674 F1=0.498  (1s)
+
+  >> treinando larga(128,64)        [EARLY_F (forma)] ...
+       fold 1/5: AUC=0.731 F1=0.611
+       fold 2/5: AUC=0.734 F1=0.636
+       fold 3/5: AUC=0.748 F1=0.635
+       fold 4/5: AUC=0.738 F1=0.627
+       fold 5/5: AUC=0.745 F1=0.643
+     [salvo] modelo_EARLY_Fforma_larga12864.joblib
+     => média AUC=0.739 F1=0.630  (24s)
+
+  >> treinando GBoost               [EARLY_F (forma)] ...
+       fold 1/5: AUC=0.731 F1=0.618
+       fold 2/5: AUC=0.733 F1=0.630
+       fold 3/5: AUC=0.745 F1=0.645
+       fold 4/5: AUC=0.736 F1=0.622
+       fold 5/5: AUC=0.745 F1=0.635
+     [salvo] modelo_EARLY_Fforma_GBoost.joblib
+     => média AUC=0.738 F1=0.630  (1s)
+
+  >> treinando larga(128,64)        [EARLY_V+F] ...
+       fold 1/5: AUC=0.737 F1=0.613
+       fold 2/5: AUC=0.741 F1=0.616
+       fold 3/5: AUC=0.751 F1=0.632
+       fold 4/5: AUC=0.739 F1=0.616
+       fold 5/5: AUC=0.744 F1=0.643
+     [salvo] modelo_EARLY_VF_larga12864.joblib
+     => média AUC=0.742 F1=0.624  (22s)
+
+  >> treinando GBoost               [EARLY_V+F] ...
+       fold 1/5: AUC=0.733 F1=0.624
+       fold 2/5: AUC=0.739 F1=0.635
+       fold 3/5: AUC=0.752 F1=0.648
+       fold 4/5: AUC=0.739 F1=0.625
+       fold 5/5: AUC=0.743 F1=0.633
+     [salvo] modelo_EARLY_VF_GBoost.joblib
+     => média AUC=0.741 F1=0.633  (1s)
+
+  >> treinando larga(128,64)        [FULL_V (volume)] ...
+       fold 1/5: AUC=0.794 F1=0.701
+       fold 2/5: AUC=0.795 F1=0.702
+       fold 3/5: AUC=0.798 F1=0.713
+       fold 4/5: AUC=0.789 F1=0.693
+       fold 5/5: AUC=0.789 F1=0.706
+     [salvo] modelo_FULL_Vvolume_larga12864.joblib
+     => média AUC=0.793 F1=0.703  (18s)
+
+  >> treinando GBoost               [FULL_V (volume)] ...
+       fold 1/5: AUC=0.789 F1=0.691
+       fold 2/5: AUC=0.792 F1=0.692
+       fold 3/5: AUC=0.792 F1=0.707
+       fold 4/5: AUC=0.785 F1=0.699
+       fold 5/5: AUC=0.783 F1=0.688
+     [salvo] modelo_FULL_Vvolume_GBoost.joblib
+     => média AUC=0.788 F1=0.695  (1s)
+
+  >> treinando larga(128,64)        [FULL_F (forma)] ...
+       fold 1/5: AUC=0.885 F1=0.845
+       fold 2/5: AUC=0.895 F1=0.851
+       fold 3/5: AUC=0.893 F1=0.855
+       fold 4/5: AUC=0.884 F1=0.831
+       fold 5/5: AUC=0.892 F1=0.840
+     [salvo] modelo_FULL_Fforma_larga12864.joblib
+     => média AUC=0.890 F1=0.844  (19s)
+
+  >> treinando GBoost               [FULL_F (forma)] ...
+       fold 1/5: AUC=0.882 F1=0.844
+       fold 2/5: AUC=0.893 F1=0.846
+       fold 3/5: AUC=0.894 F1=0.855
+       fold 4/5: AUC=0.884 F1=0.834
+       fold 5/5: AUC=0.887 F1=0.838
+     [salvo] modelo_FULL_Fforma_GBoost.joblib
+     => média AUC=0.888 F1=0.843  (2s)
+
+  >> treinando larga(128,64)        [FULL_V+F] ...
+       fold 1/5: AUC=0.892 F1=0.845
+       fold 2/5: AUC=0.900 F1=0.849
+       fold 3/5: AUC=0.899 F1=0.858
+       fold 4/5: AUC=0.889 F1=0.834
+       fold 5/5: AUC=0.892 F1=0.841
+     [salvo] modelo_FULL_VF_larga12864.joblib
+     => média AUC=0.894 F1=0.845  (20s)
+
+  >> treinando GBoost               [FULL_V+F] ...
+       fold 1/5: AUC=0.890 F1=0.846
+       fold 2/5: AUC=0.896 F1=0.845
+       fold 3/5: AUC=0.898 F1=0.855
+       fold 4/5: AUC=0.886 F1=0.834
+       fold 5/5: AUC=0.888 F1=0.837
+     [salvo] modelo_FULL_VF_GBoost.joblib
+     => média AUC=0.892 F1=0.843  (2s)
+
+
+>>> RESUMO H3:
+janela   conjunto        modelo   AUC    F1
+ EARLY V (volume) larga(128,64) 0.678 0.419
+ EARLY V (volume)        GBoost 0.674 0.498
+ EARLY  F (forma) larga(128,64) 0.739 0.630
+ EARLY  F (forma)        GBoost 0.738 0.630
+ EARLY        V+F larga(128,64) 0.742 0.624
+ EARLY        V+F        GBoost 0.741 0.633
+  FULL V (volume) larga(128,64) 0.793 0.703
+  FULL V (volume)        GBoost 0.788 0.695
+  FULL  F (forma) larga(128,64) 0.890 0.844
+  FULL  F (forma)        GBoost 0.888 0.843
+  FULL        V+F larga(128,64) 0.894 0.845
+  FULL        V+F        GBoost 0.892 0.843
+
+======================================================================
+Gravado em C:\Users\Pedro\OneDrive\Documentos\analitica_apren_trab_final\saida_passo9:
+  - 01_arquiteturas.png        (4 redes + GBoost)
+  - 02_h3_volume_vs_forma.png  (a H3: V vs F vs V+F)
+  - 03_matriz_confusao.png     (onde o modelo erra)
+  - h3_resultados.csv  arquiteturas.csv  saida_terminal.txt
+  - modelos/  (18 modelos .joblib salvos)
+
+Leitura: se V+F > V, a forma adiciona. Se F sozinho já vai bem, a forma tem sinal próprio.

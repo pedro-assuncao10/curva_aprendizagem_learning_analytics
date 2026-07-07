@@ -1,0 +1,70 @@
+======================================================================
+PASSO 14 — CURVA POR TEMPO (fatias iguais do calendário, sem prova)
+======================================================================
+
+Alunos válidos: 21,318
+Cliques capturados: 36,401,708 (100% -- não há corte de janela nem de intervalo aqui)
+Alunos com curva calculada: 21,318
+
+Estágio 1 (regra ativo_no_fim): desistentes=3,135  persistentes=18,183
+Aprovação dos desistentes: 1.2%
+Aprovação dos persistentes: 84.3%
+
+Escolha de K (estágio 2, só persistentes):
+  K=2:  inércia=89,992   silhueta=0.173
+  K=3:  inércia=76,614   silhueta=0.184
+  K=4:  inércia=67,470   silhueta=0.182
+  K=5:  inércia=60,128   silhueta=0.181
+  K=6:  inércia=53,767   silhueta=0.190
+  K=7:  inércia=49,868   silhueta=0.173
+  K=8:  inércia=47,476   silhueta=0.162
+
+Melhor K (silhueta): 6  | usando K = 3
+
+--- VALIDAÇÃO: cruzamento perfil (passo14) x perfil (passo3, referência) ---
+perfil_passo3  antecipou_sustentou  desistente  equilibrado  fim-pesado
+perfil                                                                 
+antecipado                    7609           0          360          14
+desistente                       0        3135            0           0
+equilibrado                   3433           0         2738        1784
+fim-pesado                      77           0          599        1569
+
+--- mesmo cruzamento em % por linha (pureza) ---
+perfil_passo3  antecipou_sustentou  desistente  equilibrado  fim-pesado
+perfil                                                                 
+antecipado                    95.3         0.0          4.5         0.2
+desistente                     0.0       100.0          0.0         0.0
+equilibrado                   43.2         0.0         34.4        22.4
+fim-pesado                     3.4         0.0         26.7        69.9
+
+ARI do estágio 2 (K-means na curva por tempo) vs perfil de referência do passo3: 0.296
+
+--- PERFIL DE CADA GRUPO (final, estágio 1 + estágio 2) ---
+     perfil    n  %base  aprovacao_%
+ desistente 3135   14.7          1.2
+ antecipado 7983   37.4         78.1
+equilibrado 7955   37.3         90.0
+ fim-pesado 2245   10.5         85.9
+
+Resultado final por perfil (%):
+final_result  Distinction  Pass  Fail
+perfil                               
+desistente            0.0   1.2  98.8
+antecipado           14.3  63.8  21.9
+equilibrado          19.6  70.5  10.0
+fim-pesado           14.5  71.4  14.1
+
+--- Comparação com o método anterior ---
+                        metodo  ARI_vs_passo3
+   Ancorado em prova (passo12)          0.175
+Por tempo, N=6 (passo14, este)          0.296
+
+======================================================================
+Gravado em C:\Users\Pedro\OneDrive\Documentos\analitica_apren_trab_final\saida_passo14:
+  - 01_cotovelo_silhueta.png       02_perfis_curvas.png
+  - 03_resultado_por_cluster.png   04_silhueta_facas_e_mapa.png
+  - curvas_e_perfis.csv            perfil_dos_grupos.csv
+  - validacao_crosstab.csv         comparacao_com_passo12.csv
+  - passo14.md                     saida_terminal.txt
+
+Passo 14 OK. Estágio1 (regra) + Estágio2 (K=3 na curva por tempo). ARI vs passo3=0.296

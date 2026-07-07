@@ -1,0 +1,19 @@
+cenario,bloco,modelo,auc,dp
+Curso completo,demografia (dia 0),Logística,0.6566775746507691,0.030602648086422924
+Curso completo,demografia (dia 0),Random Forest,0.622119607957968,0.023768632421930207
+Curso completo,demografia (dia 0),MLP,0.602225225768977,0.03217322893654604
+Curso completo,comportamento,Logística,0.9119336353944562,0.018056813132867288
+Curso completo,comportamento,Random Forest,0.9169303128017823,0.018310624451819642
+Curso completo,comportamento,MLP,0.8689254221365944,0.042339275905356764
+Curso completo,demografia+comportamento,Logística,0.9122811032919961,0.015627190979132777
+Curso completo,demografia+comportamento,Random Forest,0.9164325663084322,0.018151324387091865
+Curso completo,demografia+comportamento,MLP,0.8996245201363458,0.01909276706363875
+Alerta precoce,demografia (dia 0),Logística,0.6566775746507691,0.030602648086422924
+Alerta precoce,demografia (dia 0),Random Forest,0.622119607957968,0.023768632421930207
+Alerta precoce,demografia (dia 0),MLP,0.602225225768977,0.03217322893654604
+Alerta precoce,comportamento,Logística,0.784906002299521,0.041905063172145665
+Alerta precoce,comportamento,Random Forest,0.7782145038341286,0.03873422204578912
+Alerta precoce,comportamento,MLP,0.7491840973304521,0.056453644155244564
+Alerta precoce,demografia+comportamento,Logística,0.7950412246502911,0.03742243955797392
+Alerta precoce,demografia+comportamento,Random Forest,0.7899509648665705,0.037870824326195894
+Alerta precoce,demografia+comportamento,MLP,0.6725323773509138,0.08117916368248794

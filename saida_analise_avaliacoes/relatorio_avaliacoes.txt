@@ -1,0 +1,49 @@
+======================================================================
+ANÁLISE DE CALENDÁRIO: NÚMERO DE AVALIAÇÕES POR CURSO
+======================================================================
+Total de avaliações listadas: 206
+Avaliações com data válida (utilizáveis): 195
+----------------------------------------------------------------------
+
+--- DISTRIBUIÇÃO GERAL ---
+Nº de Provas  |  Qtd de Cursos
+------------------------------
+   5 provas   |   6 cursos
+   6 provas   |   1 cursos
+   7 provas   |   2 cursos
+   8 provas   |   2 cursos
+  10 provas   |   3 cursos
+  11 provas   |   3 cursos
+  13 provas   |   4 cursos
+  14 provas   |   1 cursos
+
+--- DETALHAMENTO: QUAIS CURSOS TÊM QUANTAS PROVAS? ---
+
+[5 Provas] -> Presente em 6 cursos:
+  AAA_2013J, AAA_2014J, BBB_2014J, EEE_2013J, EEE_2014B, EEE_2014J
+
+[6 Provas] -> Presente em 1 cursos:
+  DDD_2014J
+
+[7 Provas] -> Presente em 2 cursos:
+  DDD_2013J, DDD_2014B
+
+[8 Provas] -> Presente em 2 cursos:
+  CCC_2014B, CCC_2014J
+
+[10 Provas] -> Presente em 3 cursos:
+  GGG_2013J, GGG_2014B, GGG_2014J
+
+[11 Provas] -> Presente em 3 cursos:
+  BBB_2013B, BBB_2013J, BBB_2014B
+
+[13 Provas] -> Presente em 4 cursos:
+  FFF_2013B, FFF_2013J, FFF_2014B, FFF_2014J
+
+[14 Provas] -> Presente em 1 cursos:
+  DDD_2013B
+
+======================================================================
+Análise concluída. Resultados salvos em: C:\Users\Pedro\OneDrive\Documentos\analitica_apren_trab_final\saida_analise_avaliacoes
+  - relatorio_avaliacoes.txt (Este texto completo)
+  - distribuicao_avaliacoes.png (Gráfico de barras)

@@ -1,0 +1,8 @@
+HIERÁRQUICO x MÉTRICA (4 bins)
+Grupo utilizável no k=3: menor grupo >= 355
+Baseline: k-means euclidiano k=3.
+
+Melhor linkage utilizável por métrica (k=3):
+   metrica      linkage  silhueta_k3  ari_vs_baseline  menor_grupo
+Euclidiana         Ward       0.2615           0.4273         1226
+   Cosseno Ward (corda)       0.2906           0.4660         1156
