@@ -2,7 +2,7 @@
 dataset/
 
 # cache intermediário regenerável (kmeans_ciclos.py recria na primeira execução)
-cache_vle_fff2014j.csv
+dataset/cache_vle_fff2014j.csv
 
 # ambiente virtual e artefatos de Python
 venv/

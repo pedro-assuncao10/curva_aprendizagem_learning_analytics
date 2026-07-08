@@ -1,8 +1,0 @@
-linkage,metrica,silhueta,ARI_vs_kmeans,tamanhos,aprovacao_por_grupo
-ward,euclidean,0.301,0.615,"[1156, 970, 3874]","[np.float64(88.1), np.float64(28.5), np.float64(79.3)]"
-average,euclidean,0.48,0.06,"[9, 177, 5814]","[np.float64(88.9), np.float64(13.0), np.float64(74.6)]"
-complete,euclidean,0.413,0.119,"[66, 290, 5644]","[np.float64(90.9), np.float64(12.8), np.float64(75.7)]"
-average,cityblock,0.546,0.025,"[9, 72, 5919]","[np.float64(88.9), np.float64(11.1), np.float64(73.5)]"
-complete,cityblock,0.301,0.22,"[9, 1987, 4004]","[np.float64(88.9), np.float64(89.5), np.float64(64.4)]"
-average,cosine,0.416,0.312,"[2155, 2432, 1413]","[np.float64(86.9), np.float64(77.5), np.float64(43.0)]"
-complete,cosine,0.269,0.179,"[2655, 1103, 2242]","[np.float64(89.5), np.float64(44.8), np.float64(66.7)]"

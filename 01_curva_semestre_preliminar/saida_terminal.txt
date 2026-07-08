@@ -1,0 +1,48 @@
+======================================================================
+ANÁLISE PRELIMINAR — CURVA DO SEMESTRE (todo o OULAD)
+======================================================================
+lendo studentVle.csv (~10,6M linhas)...
+
+----------------------------------------------------------------------
+PARTE A — VOLUME
+----------------------------------------------------------------------
+Alunos com >=1 clique: 29,228
+Tercis de volume: baixo < 391 <= medio <= 1319 < alto
+
+>>> BASELINE — aprovação (Pass+Distinction) por faixa de volume:
+faixa_volume
+baixo    15.2
+medio    58.5
+alto     84.2
+
+----------------------------------------------------------------------
+PARTE B — FORMA (curva do semestre, sem desistentes)
+----------------------------------------------------------------------
+Alunos com clique no curso: 28,500
+  removidos por esparsidade (<30 cliques ou <3 fatias ativas) ou desistência: 7,434
+Base da forma: 21,066 alunos x 30 fatias
+
+----------------------------------------------------------------------
+PARTE C — DURABILIDADE (abandonou cedo vs antecipou e sustentou)
+----------------------------------------------------------------------
+Base (sem desistentes): 21,066 | começo-pesado: 13,986
+
+Subtipos dentro de começo-pesado:
+subtipo
+antecipou_sustentou    11117
+abandonou_cedo          2869
+
+>>> APROVAÇÃO (%) — abandonou cedo vs antecipou e sustentou:
+subtipo       abandonou_cedo  antecipou_sustentou
+faixa_volume                                     
+baixo                    1.3                 65.0
+medio                    0.7                 81.8
+alto                     1.3                 91.7
+
+======================================================================
+Gravado em C:\Users\Pedro\OneDrive\Documentos\analitica_apren_trab_final\analise_curva_semestre:
+  01_distribuicao_volume.png      02_resultado_por_volume.png
+  03_curva_mediana_forma.png      04_heatmap_forma.png
+  05_forma_por_faixa_volume.png   06_abandonou_vs_sustentou.png
+  features_durabilidade.csv       (insumo do passo6 e do passo20)
+  saida_terminal.txt
